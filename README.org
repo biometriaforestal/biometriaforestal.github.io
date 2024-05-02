@@ -1,6 +1,6 @@
 * Sobre este repositorio
 
-seria bueno Nico agregar una explicacion de como editar y cambiar...... para asi lograr que se actualice todo
+https://biometriaforestal.github.io/weblab/
 
 
 * Para clonar el repositorio
