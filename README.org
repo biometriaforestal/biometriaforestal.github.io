@@ -8,3 +8,18 @@ seria bueno Nico agregar una explicacion de como editar y cambiar...... para asi
 git clone --recurse-submodules git@github.com:biometriaforestal/weblab.git
 #+end_src
 =--recurse-submodules= es importante para que se clonen los archivos del tema /Ananke/ junto con los archivos de la página web.
+
+* Automatización
+El repositorio tiene automatizado el proceso de generar el sitio con =hugo=, esto se puede ver en la ruta =/.github/workflows/hugo.yml=.
+
+Esto significa que el procedimiento para hacer cambios en la página web es el siguiente:
+1. Recibir todos los cambios para estar al día: \\
+   #+begin_src bash
+   git pull
+   #+end_src
+2. Realizar cambios dentro de la carpeta *content*.
+3. Subir los cambios al repositorio:
+   #+begin_src bash
+   git pull
+   #+end_src
+Antes de hacer pull recordar hacer el commit pertinente.
