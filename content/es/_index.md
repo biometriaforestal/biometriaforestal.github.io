@@ -5,7 +5,7 @@ featured_image: "/images/conguillio.jpg"
 ---
 
 El Laboratorio de Biometría y Modelación Forestal se centra en investigar como
-los ecosistemas forestales cambian a través del tiempo. We use mathematical, theoretical, statistical and empirical approaches to address several research questions related to forest dynamics, tree allometry, mortality, and the scaling of tree-level processes to ecosystems. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
+los ecosistemas forestales cambian a través del tiempo. Para alcanzar lo anterior, empleamos aproximaciones matemáticas, teóricas y estadísticas para xxxxxxxx address several research questions related to forest dynamics, tree allometry, mortality, and the scaling of tree-level processes to ecosystems. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
 
 Our location is Room 14, Departamento de Gestión Forestal y su Medio Ambiente, in the Universidad de Chile's Antumapu campus in Santiago, Chile. E-mail (see below) is usually the best way to get in touch.
 
