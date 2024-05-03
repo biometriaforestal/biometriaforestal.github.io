@@ -4,7 +4,9 @@ description: "Universidad de Chile. Facultad de Ciencias Forestales y de la Cons
 featured_image: "/images/conguillio.jpg"
 ---
 
-El Laboratorio de Biometría y Modelación Forestal de la <a href="https://www.uchile.cl" target="_blank">Universidad de Chile</a> se centra en investigar como
+El Laboratorio de Biometría y Modelación Forestal de la <a href="https://www.uchile.cl" target="_blank">Universidad de Chile</a> es una unidad de investigacion del Departamento de Gestión Forestal y su Medio Ambiente, en la 
+<a href="https://forestal.uchile.cl" target="_blank">Facultad de Ciencias Forestales y de la Conservación de la Naturaleza</a>.
+ El laboratorio se centra en investigar como
 los ecosistemas forestales cambian a través del tiempo. Para alcanzar lo anterior, empleamos aproximaciones matemáticas, teóricas y estadísticas para abordar preguntas de investigacion relacionadas a el crecimiento de los bosques, alometria de arboles, mortalidad,
  y la relacion entre procesos a nivel de arbol hacia los ecosistemas forestales. Nuestra investigacion tiene un gran foco en el monitoreo y modelacion de largo plazo de los bosques nativosentre el centro-sur y la Patagonia de Chile.
 
