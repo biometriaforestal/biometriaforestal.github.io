@@ -5,8 +5,9 @@ featured_image: "/images/conguillio.jpg"
 ---
 
 El Laboratorio de Biometría y Modelación Forestal se centra en investigar como
-los ecosistemas forestales cambian a través del tiempo. Para alcanzar lo anterior, empleamos aproximaciones matemáticas, teóricas y estadísticas para xxxxxxxx address several research questions related to forest dynamics, tree allometry, mortality, and the scaling of tree-level processes to ecosystems. Our research also includes the long-term monitoring of the temperate forests in southern Chile.
+los ecosistemas forestales cambian a través del tiempo. Para alcanzar lo anterior, empleamos aproximaciones matemáticas, teóricas y estadísticas para abordar preguntas de investigacion relacionadas a el crecimiento de los bosques, alometria de arboles, mortalidad,
+ y la relacion entre procesos a nivel de arbol hacia los ecosistemas forestales. Nuestra investigacion tiene un gran foco en el monitoreo y modelacion de largo plazo de los bosques nativosentre el centro-sur y la Patagonia de Chile.
 
-Our location is Room 14, Departamento de Gestión Forestal y su Medio Ambiente, in the Universidad de Chile's Antumapu campus in Santiago, Chile. E-mail (see below) is usually the best way to get in touch.
+La ubicacion del laboratorio es la oficina No. 14, en el Departamento de Gestión Forestal y su Medio Ambiente, en el campus Antumapu de la  Universidad de Chile en Santiago, Chile. Por cualquier cosa, el enviarnos un email es quizas la mejor forma de contactarnos remotamente.
 
-If you would like to [send us an e-mail](mailto:biometria.forestal@uchile.cl) (English/Español), my address is "biometria.forestal"at" uchile "dot" cl
+Si te interesa [enviarnos un email a ](mailto:biometria.forestal@uchile.cl) (Español/English), nuestro email es "biometria.forestal"at" uchile "dot" cl
