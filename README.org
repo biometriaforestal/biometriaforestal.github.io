@@ -1,6 +1,8 @@
 * Sobre este repositorio
 
-https://biometriaforestal.github.io/weblab/
+Aqui se encuentra los archivos necesarios para editar y compilar el sitio web del Laboratorio de Biometria y Modelacion Forestal de la Universidad de Chile.
+
+En lo formal, el sitio web se encuetra en la sigueinte URL https://biometriaforestal.github.io/weblab/
 
 
 * Para clonar el repositorio
