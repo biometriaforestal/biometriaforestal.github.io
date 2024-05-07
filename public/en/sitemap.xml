@@ -2,102 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://biometriaforestal.github.io/en/01investigacion/</loc>
+    <loc>http://localhost:1313/en/01investigacion/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/01investigacion/"
+                href="http://localhost:1313/es/01investigacion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/01investigacion/"
+                href="http://localhost:1313/en/01investigacion/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/02publicaciones/</loc>
+    <loc>http://localhost:1313/en/02publicaciones/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/02publicaciones/"
+                href="http://localhost:1313/es/02publicaciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/02publicaciones/"
+                href="http://localhost:1313/en/02publicaciones/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/03gente/</loc>
+    <loc>http://localhost:1313/en/03gente/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/03gente/"
+                href="http://localhost:1313/es/03gente/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/03gente/"
+                href="http://localhost:1313/en/03gente/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/04noticias/</loc>
+    <loc>http://localhost:1313/en/04noticias/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/04noticias/"
+                href="http://localhost:1313/es/04noticias/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/04noticias/"
+                href="http://localhost:1313/en/04noticias/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://biometriaforestal.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-CL"
-                href="https://biometriaforestal.github.io/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://biometriaforestal.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

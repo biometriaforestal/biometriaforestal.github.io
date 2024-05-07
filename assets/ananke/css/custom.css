@@ -2,3 +2,20 @@
     max-width: 80%;
     text-align: justify;
 }
+
+.equipo {
+  display: grid;
+  padding: 2rem;
+  grid-template-columns: 300px 1fr;
+  gap: 1rem;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  font: 500 100%/1.5 system-ui;
+text-align: center;
+}    
+
+.equipo img {
+ max-width: 300px;
+  height: auto;
+}    

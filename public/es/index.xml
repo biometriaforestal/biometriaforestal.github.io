@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laboratorio de Biometría y Modelación Forestal</title>
-    <link>https://biometriaforestal.github.io/es/</link>
+    <link>http://localhost:1313/es/</link>
     <description>Recent content on Laboratorio de Biometría y Modelación Forestal</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>es-CL</language>
     <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://biometriaforestal.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Académico emplea árboles de lenga para estudiar la “vida y muerte” de los bosques más australes del mundo</title>
-      <link>https://biometriaforestal.github.io/es/04noticias/01/01cfcn/</link>
+      <link>http://localhost:1313/es/04noticias/01/01cfcn/</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://biometriaforestal.github.io/es/04noticias/01/01cfcn/</guid>
+      <guid>http://localhost:1313/es/04noticias/01/01cfcn/</guid>
       <description>El profesor Christian Salas-Eljatib, de la Facultad de Ciencias Forestales y de la Conservación de la Naturaleza de la Universidad de Chile, lidera un proyecto de investigación FONDECYT que busca desentrañar los secretos de la mortalidad en los bosques de lenga, desde el Maule hasta Cabo Hornos.&#xA;En el escenario natural que abarca desde el Maule hasta el último confín de Cabo de Hornos, los bosques de lenga despliegan toda su belleza.</description>
     </item>
   </channel>
