@@ -11,21 +11,36 @@ weight: 3
 
 <div class="equipo">
 
-**Nicolás Campos**
 ![Nicolas Campos](./img/nico.jpg)
+
+<div style="text-align: right;">
+
+**Nicolás Campos**
+
 Asistente de Investigación.
 
 Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
-**Rocío Reinoso**
+</div>
+
 ![Rocio Reinoso](./img/rocio.jpg)
- Licenciada en Ciencias Forestales, Memorante.
+
+<div style="text-align: right;">
+
+**Rocío Reinoso**
+
+Licenciada en Ciencias Forestales, Memorante.
  
 "Comparación de la alometría altura-diámetro para algunas especies arbóreas del bosque nativo de Llancahue, Región de los Ríos."
 
+</div>
+
+![Victor Pacheco](./img/victor.jpg)
+
+<div style="text-align: right;">
 
 **Víctor Pacheco**
-![Victor Pacheco](./img/victor.jpg)
+
 Memorante.
 
 "Variación en la forma fustal entre dos poblaciones de _Nothofagus pumilio_ en la Región de Magallanes."
