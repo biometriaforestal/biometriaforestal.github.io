@@ -5,7 +5,7 @@ featured_image: "/images/puyehue_trampa.jpg"
 weight: 3
 ---
 
-**Statement acá:** Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.
+<!-- **Statement acá:** Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus. -->
 
 # Equipo
 
@@ -17,7 +17,7 @@ weight: 3
 
 **Nicolás Campos**
 
-Asistente de Investigación.
+Asistente de Investigación. Licenciado en Ciencias Forestales.
 
 Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
