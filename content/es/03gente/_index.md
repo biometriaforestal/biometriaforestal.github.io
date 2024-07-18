@@ -30,8 +30,8 @@ Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 **Rocío Reinoso**
 
 Licenciada en Ciencias Forestales, Memorante.
- 
-"Comparación de la alometría altura-diámetro para algunas especies arbóreas del bosque nativo de Llancahue, Región de los Ríos."
+
+"Comparación interespecífica de la alometría altura diámetro en especies nativas."
 
 </div>
 
