@@ -1,8 +1,8 @@
 * Sobre este repositorio
 
-Aqui se encuentra los archivos necesarios para editar y compilar el sitio web del Laboratorio de Biometria y Modelacion Forestal de la Universidad de Chile.
+Aquí se encuentran los archivos necesarios para editar y compilar el sitio web del Laboratorio de Biometria y Modelacion Forestal de la Universidad de Chile.
 
-En lo formal, el sitio web se encuetra en la sigueinte URL https://biometriaforestal.github.io/weblab/
+En lo formal, el sitio web se encuetra en la sigueinte URL [[https://biometriaforestal.uchile.cl]]
 
 
 * Para clonar el repositorio
@@ -15,13 +15,13 @@ git clone --recurse-submodules git@github.com:biometriaforestal/weblab.git
 El repositorio tiene automatizado el proceso de generar el sitio con =hugo=, esto se puede ver en la ruta =/.github/workflows/hugo.yml=.
 
 Esto significa que el procedimiento para hacer cambios en la página web es el siguiente:
-1. Recibir todos los cambios para estar al día: \\
+1. Recibir todos los cambios para estar al día:
    #+begin_src bash
    git pull
    #+end_src
 2. Realizar cambios dentro de la carpeta *content*.
 3. Subir los cambios al repositorio:
    #+begin_src bash
-   git pull
+   git push
    #+end_src
-Antes de hacer pull recordar hacer el commit pertinente.
+Antes de hacer push recordar hacer el commit pertinente.
