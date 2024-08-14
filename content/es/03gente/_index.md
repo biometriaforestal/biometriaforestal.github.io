@@ -1,7 +1,7 @@
 ---
 title: "Gente"
 description: "Quiénes somos"
-featured_image: "/images/puyehue_trampa.jpg"
+featured_image: "/images/equipo2.png"
 weight: 3
 ---
 
