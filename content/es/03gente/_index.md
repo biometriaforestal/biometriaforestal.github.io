@@ -31,7 +31,7 @@ Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
 Licenciada en Ciencias Forestales, Memorante.
 
-"Comparación interespecífica de la alometría altura diámetro en especies nativas."
+<i>"Comparación interespecífica de la alometría altura diámetro en especies nativas."</i>
 
 </div>
 
@@ -43,6 +43,20 @@ Licenciada en Ciencias Forestales, Memorante.
 
 Memorante.
 
-"Variación en la forma fustal entre dos poblaciones de _Nothofagus pumilio_ en la Región de Magallanes."
+<i>"Variación en la forma fustal entre dos poblaciones de _Nothofagus pumilio_ en la Región de Magallanes."</i>
+
+</div>
+
+![Marcos Marivil](./img/marcos.jpg)
+
+<div style="text-align: right;">
+
+**Marcos Marivil**
+
+Memorante.
+
+<i>"Predicción del diámetro normal en función de características del tocón de 14 especies nativas de Chile."</i>
+
+</div>
 
 </div>
