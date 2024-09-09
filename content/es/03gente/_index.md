@@ -59,4 +59,16 @@ Memorante.
 
 </div>
 
+![Nicolás Clavero](./img/nico_clavero.jpeg)
+
+<div style="text-align: right;">
+
+**Nicolás Clavero**
+
+Memorante.
+
+<i>"Modelos de altura de comienzo de copa en bosques de Nothofagus."</i>
+
+</div>
+
 </div>
