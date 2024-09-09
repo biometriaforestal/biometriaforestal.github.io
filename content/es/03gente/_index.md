@@ -59,7 +59,7 @@ Memorante.
 
 </div>
 
-![Nicolás Clavero](./img/nico_clavero.jpeg)
+![Nicolás Clavero](./img/nico_clavero.jpg)
 
 <div style="text-align: right;">
 
