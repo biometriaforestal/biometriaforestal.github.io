@@ -1,6 +1,6 @@
 ---
 title: "Investigación"
-description: "Lo que estamos haciendo"
+description: "Lo que desarrollamos"
 featured_image: "/images/mocho_cortado.jpg"
 weight: 1
 ---

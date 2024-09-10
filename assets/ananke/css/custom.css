@@ -19,3 +19,36 @@
     text-align: center;
 }
 
+.journalclub table {
+    border: 1px #ccc solid;
+    border-top-color: rgb(204, 204, 204);
+    border-right-color: rgb(204, 204, 204);
+    border-bottom-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    overflow: auto;
+    width: 100%;
+    margin: .1em auto .75em;
+    padding: 0.5em;}
+
+.journalclub {
+    list-style: none;
+}
+
+.journalclub li.item {
+    border-top: 4px solid #555;
+}
+/* ul.report li.item { */
+
+/*     border-top: 4px solid red; */
+/*     border-top-color: red; */
+/*     padding-top: 1em; */
+/*     padding-left: 1em; */
+/*     padding-right: 1em; */
+/*     margin-bottom: 2em;} */
+
+/* ul.report li.item { */
+/*     border-top-color: red; */
+/*     color: CanvasText; */
+/* } */
+
+
