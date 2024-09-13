@@ -7,7 +7,7 @@ draft: false
 
 En esta sección se listan los árticulos revisados en el "Journal Club" semanal. En esta dinámica, el equipo completo del laboratorio lee un artículo propuesto por un encargado y ese encargado realiza un review para discutir.
 
-<!-- <ul class="report combineChildItems"> -->
+
 <ul class="journalclub">
   <li id="item_YDFVT8AP" class="item journalArticle">
     <h2>Cross-validation of non-linear growth functions for modelling tree height-diameter relationships</h2>
@@ -1243,4 +1243,4 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_F4NCVYXS">Texto completo					</li>
     </ul>
   </li>
-</ul>
+</ul>  
