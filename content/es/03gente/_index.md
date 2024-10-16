@@ -11,7 +11,7 @@ weight: 3
 
 <div class="equipo">
 
-![Nicolas Campos](./img/nico.jpg)
+![Nicolás Campos](./img/nico.jpg)
 
 <div style="text-align: right;">
 
@@ -22,6 +22,19 @@ Asistente de Investigación. Licenciado en Ciencias Forestales.
 Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
 </div>
+
+![Natalia Pizarro](./img/natalia2.jpg)
+
+<div style="text-align: right;">
+
+**Natalia Pizarro**
+
+Asistente de Investigación. Licenciada en Ciencias Forestales.
+
+Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
+
+</div>
+
 
 ![Rocio Reinoso](./img/rocio.jpg)
 
@@ -67,7 +80,7 @@ Memorante.
 
 Memorante.
 
-<i>"Modelos de altura de comienzo de copa en bosques de Nothofagus."</i>
+<i>"Modelos de razón de copa en bosques de Nothofagus Pumilio."</i>
 
 </div>
 
