@@ -105,6 +105,132 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_EDHN2G42">PDF					</li>
     </ul>
   </li>
+  <li id="item_86LSBTG8" class="item journalArticle">
+    <h2>Developing fully compatible taper and volume equations for all 
+      stem components of Eucalyptus globoidea Blakely trees in New Zealand</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Daniel Boczniewicz</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Euan G. Mason</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Justin A. Morgenroth</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Background: Individual-tree taper and volume equations are 
+	    essential for forest management. They provide estimates of volume that 
+	    are incorporated into plot-level volume equations and also into growth 
+	    and yield models to estimate volumes per hectare in forest crops. 
+	    Moreover, taper equations allow forest managers to estimate dimensions 
+	    of logs that can be cut from stems in their forests when they have 
+	    measured diameters at breast height and heights of trees in inventories.
+	    Compatible taper and volume equations have the property that the same 
+	    individual tree volume can be estimated either from the tree volume 
+	    equation or by integrating the taper equation. Durable eucalypt species 
+	    such as Eucalyptus globoidea Blakely, however, have especially valuable 
+	    heartwood and so managers require estimates of the volumes and shapes of
+	    heartwood zones within trees. Simple overall wood taper and volume 
+	    equations would therefore be inadequate. Methods: 74 Eucalyptus 
+	    globoidea trees were destructively sampled in 8 different trial plots 
+	    throughout New Zealand. Tree ages were 7 to 29 years old, the DBHs were 
+	    11 to 67.6 cm and the heights were 7.2 to 35.4 m. All trees were felled 
+	    and lengths and taper diameters outside bark were measured. To measure 
+	    taper diameters of heartwood and sapwood, discs were cut at irregular 
+	    intervals along the stems. Heartwood and sapwood components were 
+	    identified by applying methyl orange dye and quantified using image 
+	    analysis. In this study we extended compatibility so that sums of 
+	    estimated volumes of separate components of stems, bark, sapwood and 
+	    heartwood, would equal overall tree volume estimates. In addition, taper
+	    equations were made for outside bark, inside bark and heartwood that 
+	    were compatible with their respective volume equations. Parameters of 
+	    five volume equations for whole stem, whole wood, bark, sapwood, and 
+	    heartwood were simultaneously estimated. Compatible taper equations for 
+	    whole stem, stem wood and heartwood were estimated so that they were 
+	    compatible with the volume equations, thereby creating a fully 
+	    compatible system. Results: Root mean squared error (RMSE) of volume 
+	    models were 0.1248298 m3 for heartwood, 0.05496807 m3 for sapwood, 
+	    0.1539625 m3 for wood inside bark, 0.1108201 m3 for bark and 0.1439786 
+	    m3 for wood including bark. RMSE of taper models was 2.572765 cm for 
+	    heartwood, 2.348552 cm for wood inside bark and 2.474088 cm for wood 
+	    including bark. Conclusions: A&nbsp;compatible system of multiple taper 
+	    and volume equations can be fitted through the simultaneous fitting of 
+	    parameters with minimal bias and precision levels of &nbsp;± 0.055-0.154
+	    m3 for volume equations and ± 2.35 to 2.57 cm for taper equations. 
+	    Leave-one-out cross-validation of the fitted models yielded very similar
+	    levels of precision and bias to those encountered when fitting models 
+	    with the entire dataset.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2022-03-21</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://nzjforestryscience.nz/index.php/nzjfs/article/view/180">https://nzjforestryscience.nz/index.php/nzjfs/article/view/180</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+	<tr>
+	  <th>Rights</th>
+	  <td>http://creativecommons.org/licenses/by/4.0</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>52</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>New Zealand Journal of Forestry Science</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.33494/nzjfs522022x180x">10.33494/nzjfs522022x180x</a></td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>NZJFS</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1179-5395</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_ZKLNAXNK">
+	<div><div data-schema-version="9"><p>Revisado por Natalia Pizarro</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_WLU58RC3">Full Text					</li>
+    </ul>
+  </li>
   <li id="item_VXE6BJ9I" class="item journalArticle">
     <h2>Incorporating crown ratio into taper equations for Loblolly Pine trees</h2>
     <table>
@@ -1858,6 +1984,83 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_YGINIFUE">Salas Eljatib - 2002 - Ajuste y validación de ecuaciones de volumen para .pdf					</li>
+    </ul>
+  </li>
+  <li id="item_DRD2S5TV" class="item journalArticle">
+    <h2>A Cruising Computer for Variable Plots, Tree Heights, and Slope Correction</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Albert R. Stage</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1959-11-01</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://doi.org/10.1093/jof/57.11.835">https://doi.org/10.1093/jof/57.11.835</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>57</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>835-836</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Journal of Forestry</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/jof/57.11.835">10.1093/jof/57.11.835</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>11</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Journal of Forestry</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0022-1201</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_FV6KDRC4">
+	<div><div data-schema-version="9"><p>Revisado por Christian Salas</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_Q4DM3Q97">PDF					</li>
+      <li id="item_YN6PG93B">Snapshot					</li>
     </ul>
   </li>
   <li id="item_FPN6LEB9" class="item journalArticle">
