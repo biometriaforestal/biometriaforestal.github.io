@@ -7,17 +7,47 @@ weight: 3
 
 <!-- **Statement acá:** Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus. -->
 
-# Equipo
+# Directores
 
 <div class="equipo">
 
-![Nicolás Campos](./img/nico.jpg)
+![Christian Salas-Eljatib](./img/cse2.png)
+
+<div style="text-align: right;">
+
+**Christian Salas-Eljatib**
+
+Profesor titular, PhD in Biometrics 2011. Departamento de Gestión Forestal y su Medio Ambiente.
+
+<!-- Director del Laboratorio de Biometría y Modelación Forestal. -->
+
+</div>
+
+![Patricio Corvalán](./img/pcorvalan.png)
+
+<div style="text-align: right;">
+
+**Patricio Corvalán**
+
+Profesor asociado, MSc. 2008. Departamento de Gestión Forestal y su Medio Ambiente.
+
+<!-- Director del Laboratorio de Biometría y Modelación Forestal. -->
+
+</div>
+
+</div>
+
+# Encargados
+
+<div class="equipo">
+
+![Nicolás Campos](./img/nicolas_campos.jpg)
 
 <div style="text-align: right;">
 
 **Nicolás Campos**
 
-Asistente de Investigación. Licenciado en Ciencias Forestales.
+Asistente de Investigación. Ingeniero Forestal.
 
 Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
@@ -35,6 +65,13 @@ Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
 
 </div>
 
+</div>
+
+
+# Estudiantes
+
+
+<div class="equipo">
 
 ![Rocio Reinoso](./img/rocio.jpg)
 
