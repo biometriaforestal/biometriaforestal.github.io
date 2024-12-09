@@ -7,7 +7,7 @@ weight: 3
 
 <!-- **Statement acá:** Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus. -->
 
-# Directores
+# Académicos
 
 <div class="equipo">
 
@@ -17,7 +17,11 @@ weight: 3
 
 **Christian Salas-Eljatib**
 
-Profesor titular, PhD in Biometrics 2011. Departamento de Gestión Forestal y su Medio Ambiente.
+Profesor titular. Departamento de Gestión Forestal y su Medio Ambiente.
+
+Director del Laboratorio de Biometría y Modelación Forestal.
+
+[eljatib.com](https://eljatib.com)
 
 <!-- Director del Laboratorio de Biometría y Modelación Forestal. -->
 
@@ -29,7 +33,7 @@ Profesor titular, PhD in Biometrics 2011. Departamento de Gestión Forestal y su
 
 **Patricio Corvalán**
 
-Profesor asociado, MSc. 2008. Departamento de Gestión Forestal y su Medio Ambiente.
+Profesor asociado. Departamento de Gestión Forestal y su Medio Ambiente.
 
 <!-- Director del Laboratorio de Biometría y Modelación Forestal. -->
 
