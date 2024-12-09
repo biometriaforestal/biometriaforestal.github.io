@@ -40,7 +40,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
   custom_css = [ "custom.css" ]
-  instagram = "instagram.com/biofore.uchile"
+  instagram = "https://instagram.com/biofore.uchile"
 # [[params.ananke_socials]]
 # name = "twitter"
 # url = "https://twitter.com/GoHugoIO"
