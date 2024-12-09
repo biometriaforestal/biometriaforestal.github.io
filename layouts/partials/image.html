@@ -1,0 +1,13 @@
+<!-- {{ $image := resources.Get .Params.image }} -->
+<!-- {{ $resizedImage := $image.Resize "600x webp q50" }} -->
+
+<!-- <figure> -->
+<!--     <img src="{{ $resizedImage.RelPermalink }}" alt="{{ .Params.alt }}"> -->
+<!--     <figcaption>{{ .Params.caption }}</figcaption> -->
+<!-- </figure> -->
+
+{{ with .Resources.GetMatch "sunset.jpg" }}
+  {{ with .Resize (printf "%dx%d webp q70" .Width .Height) }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+  {{ end }}
+{{ end }}
