@@ -37,18 +37,8 @@
 .journalclub li.item {
     border-top: 4px solid #555;
 }
-/* ul.report li.item { */
 
-/*     border-top: 4px solid red; */
-/*     border-top-color: red; */
-/*     padding-top: 1em; */
-/*     padding-left: 1em; */
-/*     padding-right: 1em; */
-/*     margin-bottom: 2em;} */
-
-/* ul.report li.item { */
-/*     border-top-color: red; */
-/*     color: CanvasText; */
-/* } */
-
-
+a {
+    text-decoration: none;
+    color: #4169E1;;
+}
