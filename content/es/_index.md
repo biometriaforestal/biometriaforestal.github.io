@@ -2,7 +2,7 @@
 title: "Laboratorio de Biometría y Modelación Forestal"
 description: Universidad de Chile. Facultad de Ciencias Forestales y de la Conservación
   de la Naturaleza.
-featured_image: /images/conguillio.jpg
+featured_image: "/images/lowres/conguillio.webp"
 ---
 
 El Laboratorio de Biometría y Modelación Forestal de la [Universidad de Chile](https://www.uchile.cl) es una unidad de investigacion del Departamento de Gestión Forestal y su Medio Ambiente, en la [Facultad de Ciencias Forestales y de la Conservación de la Naturaleza](https://forestal.uchile.cl).
