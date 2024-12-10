@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 description: "What we have published"
-featured_image: "/images/nhuble.jpg"
+featured_image: "/images/lowres/nhuble.webp"
 weight: 2
 ---
 

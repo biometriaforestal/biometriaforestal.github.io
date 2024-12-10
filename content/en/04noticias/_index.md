@@ -1,7 +1,7 @@
 ---
 title: "News"
 description: "What's new"
-featured_image: "/images/lircay.jpg"
+featured_image: "/images/lowres/lircay.webp"
 weight: 4
 ---
 

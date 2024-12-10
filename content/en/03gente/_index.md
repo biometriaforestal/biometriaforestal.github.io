@@ -1,7 +1,7 @@
 ---
 title: "People"
 description: "Who we are"
-featured_image: "/images/puyehue_trampa.jpg"
+featured_image: "/images/lowres/equipo2.webp"
 weight: 3
 ---
 

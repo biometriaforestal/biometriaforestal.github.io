@@ -1,7 +1,7 @@
 ---
 title: "Noticias"
 description: "Qué hay de nuevo"
-featured_image: "/images/lircay.jpg"
+featured_image: "/images/lowres/lircay.webp"
 weight: 4
 ---
 

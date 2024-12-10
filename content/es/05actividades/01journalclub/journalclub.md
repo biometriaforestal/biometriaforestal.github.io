@@ -1,7 +1,7 @@
 ---
 title: "Journal Club"
 # date: 2023-12-12
-featured_image: "./images/lab_cropped.png"
+featured_image: "./images/lowres/lab_cropped.webp"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Gente"
 description: "Quiénes somos"
-featured_image: "/images/equipo2.png"
+featured_image: "/images/lowres/equipo2.webp"
 weight: 3
 ---
 
@@ -11,7 +11,7 @@ weight: 3
 
 <div class="equipo">
 
-![Christian Salas-Eljatib](./img/cse2.png)
+ ![Christian Salas-Eljatib](./img/lowres/cse2.webp)
 
 <div style="text-align: right;">
 
@@ -27,7 +27,7 @@ Director del Laboratorio de Biometría y Modelación Forestal.
 
 </div>
 
-![Patricio Corvalán](./img/pcorvalan.png)
+![Patricio Corvalán](./img/lowres/pcorvalan.webp)
 
 <div style="text-align: right;">
 
@@ -45,7 +45,7 @@ Profesor asociado. Departamento de Gestión Forestal y su Medio Ambiente.
 
 <div class="equipo">
 
-![Nicolás Campos](./img/nicolas_campos.jpg)
+![Nicolás Campos](./img/lowres/nicolas_campos.webp)
 
 <div style="text-align: right;">
 
@@ -57,7 +57,7 @@ Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
 </div>
 
-![Natalia Pizarro](./img/natalia2.jpg)
+![Natalia Pizarro](./img/lowres/natalia2.webp)
 
 <div style="text-align: right;">
 
@@ -77,7 +77,7 @@ Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
 
 <div class="equipo">
 
-![Rocio Reinoso](./img/rocio.jpg)
+![Rocio Reinoso](./img/lowres/rocio.webp)
 
 <div style="text-align: right;">
 
@@ -89,7 +89,7 @@ Licenciada en Ciencias Forestales, Memorante.
 
 </div>
 
-![Victor Pacheco](./img/victor.jpg)
+![Victor Pacheco](./img/lowres/victor.webp)
 
 <div style="text-align: right;">
 
@@ -101,7 +101,7 @@ Memorante.
 
 </div>
 
-![Marcos Marivil](./img/marcos.jpg)
+![Marcos Marivil](./img/lowres/marcos.webp)
 
 <div style="text-align: right;">
 
@@ -113,7 +113,7 @@ Memorante.
 
 </div>
 
-![Nicolás Clavero](./img/nico_clavero.jpg)
+![Nicolás Clavero](./img/lowres/nico_clavero.webp)
 
 <div style="text-align: right;">
 

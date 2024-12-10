@@ -1,7 +1,7 @@
 ---
 title: "Publicaciones"
 description: "Lo que hemos publicado"
-featured_image: "/images/nhuble.jpg"
+featured_image: "/images/lowres/nhuble.webp"
 weight: 2
 ---
 

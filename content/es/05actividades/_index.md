@@ -1,7 +1,7 @@
 ---
 title: "Actividades"
 description: "Lo que estamos haciendo"
-featured_image: "/images/lircay_agosto.jpg"
+featured_image: "/images/lowres/lircay_agosto.webp"
 weight: 5
 ---
 

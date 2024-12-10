@@ -1,7 +1,7 @@
 ---
 title: "Investigación"
 description: "Lo que desarrollamos"
-featured_image: "/images/mocho_cortado.jpg"
+featured_image: "/images/lowres/mocho_cortado.webp"
 weight: 1
 ---
 
