@@ -51,7 +51,8 @@ Profesor asociado. Departamento de Gestión Forestal y su Medio Ambiente.
 
 **Nicolás Campos**
 
-Asistente de Investigación. Ingeniero Forestal.
+Asistente de Investigación. 
+Ingeniero Forestal.
 
 Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
@@ -63,7 +64,8 @@ Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
 **Natalia Pizarro**
 
-Asistente de Investigación. Licenciada en Ciencias Forestales.
+Asistente de Investigación.
+Ingeniera Forestal.
 
 Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
 
@@ -72,7 +74,7 @@ Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
 </div>
 
 
-# Estudiantes
+# Titulados
 
 
 <div class="equipo">
@@ -83,11 +85,16 @@ Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
 
 **Rocío Reinoso**
 
-Licenciada en Ciencias Forestales, Memorante.
+Ingeniera Forestal.
 
 <i>"Comparación interespecífica de la alometría altura diámetro en especies nativas."</i>
 
 </div>
+</div>
+
+# Estudiantes
+
+<div class="equipo">
 
 ![Victor Pacheco](./img/lowres/victor.webp)
 
