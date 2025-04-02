@@ -7,6 +7,8 @@ draft: false
 
 Rocío Reinoso presenta en el IX Congreso Chileno de Ciencias Forestales un estudio que compara la relación entre altura y diámetro en distintas especies nativas, aportando nuevos conocimientos para la gestión forestal sostenible.
 
+![equipo del laboratorio en el congreso](/images/lowres/congreso.webp)
+
 La joven investigadora Rocío Reinoso hizo su debut en el mundo de los congresos científicos en el IX Congreso Chileno de Ciencias Forestales, celebrado en la Universidad Austral de Valdivia. En su presentación, titulada "Comparando la alometría altura-diámetro interespecífica en especies nativas", compartió los resultados de su investigación, la cual buscaba comprender mejor los patrones de crecimiento de diversas especies nativas de Chile.
 
 "Es mi primera experiencia en un congreso, nunca ni siquiera había ido a uno de espectadora, así que no, súper enriquecedora", expresó Reinoso, quien destacó la oportunidad de conocer a otros investigadores y sus trabajos.
