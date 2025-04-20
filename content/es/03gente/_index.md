@@ -58,19 +58,6 @@ Coordinador técnico del Laboratorio de Biometría y Modelación Forestal.
 
 </div>
 
-![Natalia Pizarro](./img/lowres/natalia2.webp)
-
-<div style="text-align: right;">
-
-**Natalia Pizarro**
-
-Asistente de Investigación.
-Ingeniera Forestal.
-
-Coordinadora de proyectos del Laboratorio de Biometría y Modelación Forestal.
-
-</div>
-
 </div>
 
 
