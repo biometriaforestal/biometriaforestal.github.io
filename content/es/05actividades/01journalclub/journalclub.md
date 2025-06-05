@@ -8,6 +8,103 @@ draft: false
 En esta sección se listan los árticulos revisados en el "Journal Club" semanal. En esta dinámica, el equipo completo del laboratorio lee un artículo propuesto por un encargado y ese encargado realiza un review para discutir.
 
 <ul class="journalclub">
+  <li id="item_GPRMFRVJ" class="item journalArticle">
+    <h2>An Evaluation of Sampling Methods and Model Forms for Estimating Height-Diameter Relationships in Loblolly Pine Plantations</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Alexandros A. Arabatzis</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Harold E. Burkhart</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Abstract
+            The prediction performance of eight height-diameter 
+	    regression models was compared for estimating mean stand height when 
+	    fitted to data selected from 175 loblolly pine (Pinus taeda) sample 
+	    plots by (i) simple random sampling without replacement, and (ii) 
+	    stratified random sampling with dbh classes acting as strata. Among the 
+	    models tested, the nonlinear model of the form H = aeb/D performed best 
+	    especially when fitted to data selected by simple random sampling. A 
+	    small gain in precision obtained by stratification into dbh classes was 
+	    outweighed by a substantial increase in bias due to the arbitrary 
+	    allocation of numbers of sample trees to the strata. To update existing 
+	    height-diameter models, it is recommended that new trees be selected and
+	    measured on every occasion instead of retaining the same sample trees 
+	    used previously for model fitting. For. Sci. 38(1):192-198.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1992-02-01</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://academic.oup.com/forestscience/article/38/1/192/4642795">https://academic.oup.com/forestscience/article/38/1/192/4642795</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>9/2/2024, 4:22:53 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>38</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>192-198</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Forest Science</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestscience/38.1.192">10.1093/forestscience/38.1.192</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X, 1938-3738</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/30/2023, 4:29:25 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>1/8/2025, 10:25:41 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_ZHNX6VZ7">
+	<div><div data-schema-version="9"><p>Revisado por Christian Salas</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_EDHN2G42">PDF					</li>
+    </ul>
+  </li>
   <li id="item_Q3BY6FSA" class="item journalArticle">
     <h2>A Bayesian model to estimate land surface phenology parameters with harmonized Landsat 8 and Sentinel-2 images</h2>
     <table>
@@ -176,6 +273,132 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_ZPCVJEWN">Semantic Scholar Link					</li>
     </ul>
   </li>
+  <li id="item_86LSBTG8" class="item journalArticle">
+    <h2>Developing fully compatible taper and volume equations for all 
+      stem components of Eucalyptus globoidea Blakely trees in New Zealand</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Daniel Boczniewicz</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Euan G. Mason</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Justin A. Morgenroth</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Background: Individual-tree taper and volume equations are 
+	    essential for forest management. They provide estimates of volume that 
+	    are incorporated into plot-level volume equations and also into growth 
+	    and yield models to estimate volumes per hectare in forest crops. 
+	    Moreover, taper equations allow forest managers to estimate dimensions 
+	    of logs that can be cut from stems in their forests when they have 
+	    measured diameters at breast height and heights of trees in inventories.
+	    Compatible taper and volume equations have the property that the same 
+	    individual tree volume can be estimated either from the tree volume 
+	    equation or by integrating the taper equation. Durable eucalypt species 
+	    such as Eucalyptus globoidea Blakely, however, have especially valuable 
+	    heartwood and so managers require estimates of the volumes and shapes of
+	    heartwood zones within trees. Simple overall wood taper and volume 
+	    equations would therefore be inadequate. Methods: 74 Eucalyptus 
+	    globoidea trees were destructively sampled in 8 different trial plots 
+	    throughout New Zealand. Tree ages were 7 to 29 years old, the DBHs were 
+	    11 to 67.6 cm and the heights were 7.2 to 35.4 m. All trees were felled 
+	    and lengths and taper diameters outside bark were measured. To measure 
+	    taper diameters of heartwood and sapwood, discs were cut at irregular 
+	    intervals along the stems. Heartwood and sapwood components were 
+	    identified by applying methyl orange dye and quantified using image 
+	    analysis. In this study we extended compatibility so that sums of 
+	    estimated volumes of separate components of stems, bark, sapwood and 
+	    heartwood, would equal overall tree volume estimates. In addition, taper
+	    equations were made for outside bark, inside bark and heartwood that 
+	    were compatible with their respective volume equations. Parameters of 
+	    five volume equations for whole stem, whole wood, bark, sapwood, and 
+	    heartwood were simultaneously estimated. Compatible taper equations for 
+	    whole stem, stem wood and heartwood were estimated so that they were 
+	    compatible with the volume equations, thereby creating a fully 
+	    compatible system. Results: Root mean squared error (RMSE) of volume 
+	    models were 0.1248298 m3 for heartwood, 0.05496807 m3 for sapwood, 
+	    0.1539625 m3 for wood inside bark, 0.1108201 m3 for bark and 0.1439786 
+	    m3 for wood including bark. RMSE of taper models was 2.572765 cm for 
+	    heartwood, 2.348552 cm for wood inside bark and 2.474088 cm for wood 
+	    including bark. Conclusions: A&nbsp;compatible system of multiple taper 
+	    and volume equations can be fitted through the simultaneous fitting of 
+	    parameters with minimal bias and precision levels of &nbsp;± 0.055-0.154
+	    m3 for volume equations and ± 2.35 to 2.57 cm for taper equations. 
+	    Leave-one-out cross-validation of the fitted models yielded very similar
+	    levels of precision and bias to those encountered when fitting models 
+	    with the entire dataset.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2022-03-21</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://nzjforestryscience.nz/index.php/nzjfs/article/view/180">https://nzjforestryscience.nz/index.php/nzjfs/article/view/180</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+	<tr>
+	  <th>Rights</th>
+	  <td>http://creativecommons.org/licenses/by/4.0</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>52</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>New Zealand Journal of Forestry Science</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.33494/nzjfs522022x180x">10.33494/nzjfs522022x180x</a></td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>NZJFS</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1179-5395</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>11/27/2024, 12:35:32 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_ZKLNAXNK">
+	<div><div data-schema-version="9"><p>Revisado por Natalia Pizarro</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_WLU58RC3">Full Text					</li>
+    </ul>
+  </li>
   <li id="item_VXE6BJ9I" class="item journalArticle">
     <h2>Incorporating crown ratio into taper equations for Loblolly Pine trees</h2>
     <table>
@@ -292,6 +515,183 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_4IZ4UK45">PDF					</li>
+    </ul>
+  </li>
+  <li id="item_PUP2IS7F" class="item journalArticle">
+    <h2>Validación de un modelo fustal para Pino insigne</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Fernando Cox</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1985</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Facultad de Ciencias Agrarias y Forestales</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>9/23/2024, 12:17:15 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>9/23/2024, 12:22:30 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_EAM94LSL">
+	<div><div data-schema-version="9"><p>Revisado por Victor Pacheco</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_L85JSN9P">Cox - 1985 - Validación de un modelo fustal para Pino insigne.pdf					</li>
+    </ul>
+  </li>
+  <li id="item_6XLGU4JB" class="item journalArticle">
+    <h2>Modeling of tree height–diameter relationships in the Atlantic Forest: effect of forest type on tree allometry</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Vinicius Costa Cysneiros</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Allan Libanio Pelissari</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Tatiana Dias Gaui</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Luan Demarco Fiorentin</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Daniel Costa De Carvalho</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Telmo Borges Silveira Filho</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Sebastião Do Amaral Machado</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Tree height is one of the most important variables for 
+	    quantitative assessment of forest stocks, but it is difficult to 
+	    directly measure. Such allometric relationships of trees can vary 
+	    between geographical regions, however, mainly due to climatic, edaphic, 
+	    and floristic gradients. Based on the hypothesis that different forest 
+	    types influence the generic modeling of tree height–diameter 
+	    relationships on geographical scales, this study aimed to (i) fit 
+	    equations to estimate tree height in Atlantic Forest types in the state 
+	    of Rio de Janeiro, Brazil; (ii) compare efficiency and precision between
+	    generic and specific equations for forest types; and (iii) test the 
+	    effect of different forest types and species on the height–diameter 
+	    relationship. Four allometric models were tested for all forests 
+	    (generic) and three main forest types (specific). Effects of tree size, 
+	    forest types, and species on tree height estimation were analyzed using 
+	    multiple linear models and mixed-effect linear models. A significant 
+	    effect of forest type and species on tree height was seen, showing the 
+	    need to apply local specific equations to minimize the effects that are 
+	    not captured by generic equations. Differences in tree allometry between
+	    forest types were associated with temperature, rainfall, soil, and 
+	    forest structure. These results confirm the effect of the local 
+	    environment on the height–diameter relationship of trees as found over 
+	    large scales in tropical forests.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>12/2020</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Short Title</th>
+	  <td>Modeling of tree height–diameter relationships in the Atlantic Forest</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://cdnsciencepub.com/doi/10.1139/cjfr-2020-0060">https://cdnsciencepub.com/doi/10.1139/cjfr-2020-0060</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>7/29/2024, 12:10:43 PM</td>
+	</tr>
+	<tr>
+	  <th>Rights</th>
+	  <td>http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>50</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>1289-1298</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Canadian Journal of Forest Research</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/cjfr-2020-0060">10.1139/cjfr-2020-0060</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>12</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0045-5067, 1208-6037</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>7/29/2024, 12:10:43 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>7/29/2024, 12:10:43 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_7A5A38PU">
+	<div><div data-schema-version="9"><p>Revisado por Rocío Reinoso</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_IPNS83NL">Cysneiros et al. - 2020 - Modeling of tree height–diameter relationships in .pdf					</li>
     </ul>
   </li>
   <li id="item_C8XHG6TX" class="item journalArticle">
@@ -859,6 +1259,186 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_RIGF5Q6G">Full Text PDF					</li>
     </ul>
   </li>
+  <li id="item_GE5WC2K2" class="item journalArticle">
+    <h2>Stem taper equations for poplars growing on farmland in Sweden</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Birger Hjelm</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>3/2013</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://link.springer.com/10.1007/s11676-012-0270-4">http://link.springer.com/10.1007/s11676-012-0270-4</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>10/1/2024, 5:08:20 PM</td>
+	</tr>
+	<tr>
+	  <th>Rights</th>
+	  <td>http://www.springer.com/tdm</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>24</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>15-22</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Journal of Forestry Research</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s11676-012-0270-4">10.1007/s11676-012-0270-4</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Journal of Forestry Research</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1007-662X, 1993-0607</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>10/1/2024, 5:08:20 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>10/1/2024, 5:08:20 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_D832XMNP">
+	<div><div data-schema-version="9"><p>Revisado por Nicolás Campos</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_PMXSE7B5">PDF					</li>
+    </ul>
+  </li>
+  <li id="item_344SRAHR" class="item journalArticle">
+    <h2>Modeling Tree Crown Ratio</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Margaret R. Holdaway</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>The crown ratio (the ratio of live crown length to total 
+	    height) of an individual tree in a stand can be predicted from commonly 
+	    measured stand and tree variables. For example, the ratio can be 
+	    estimated using a nonlinear model combining stand basal area (BA) and 
+	    initial tree diameter (DBH). The first term reflects the importance of 
+	    competition on crown ratio; the second term differentiates among trees 
+	    of different sizes.Biologically reasonable behavior is exhibited by the 
+	    crown ratio model. The core model, with only two parameters, is very 
+	    flexible; the full model, with four parameters, is capable of describing
+	    a full range of logical crown ratio growth patterns. When extrapolated,
+	    this nonlinear model continues to be biologically reasonable. In 
+	    addition, the parameters are capable of theoretical interpretation.When 
+	    tested on a Lake States data base of over 150 000 trees, the moan crown 
+	    ratio estimation error was small, −2% for softwoods and +3% for 
+	    hardwoods. Variation in weather and survey crew effects did not appear 
+	    to contribute to errors in crown ratio estimation, although errors in 
+	    crown ratio prediction did vary by region.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1986-10</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>pubs.cif-ifc.org (Atypon)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://pubs.cif-ifc.org/doi/10.5558/tfc62451-5">https://pubs.cif-ifc.org/doi/10.5558/tfc62451-5</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>11/4/2024, 11:50:05 AM</td>
+	</tr>
+	<tr>
+	  <th>Extra</th>
+	  <td>Publisher: Canadian Institute of Forestry</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>62</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>451-455</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc62451-5">10.5558/tfc62451-5</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/4/2024, 11:50:05 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>11/4/2024, 11:50:05 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_AVWGRK6L">
+	<div><div data-schema-version="9"><p>Revisado por Nicolás Clavero</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_Z7FGWIA9">Full Text PDF					</li>
+    </ul>
+  </li>
   <li id="item_AJ27EXCI" class="item journalArticle">
     <h2>Comparison of Nonlinear Height Diameter Functions for Major Alberta Tree Species</h2>
     <table>
@@ -1163,6 +1743,226 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_QTJQXIV3">Full Text PDF					</li>
+    </ul>
+  </li>
+  <li id="item_DFMLAC2Z" class="item journalArticle">
+    <h2>Estimating stump volume, stump inside bark diameter and diameter at breast height from stump measurements</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Antal Kozak</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Stephen A. Y. Omule</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Equations were derived for estimating stump volume, stump 
+	    inside bark diameter at any given height from ground and diameter at 
+	    breast height from measured stump height and stump inside bark diameter.
+	    The equations were tested on 33 British Columbia commercial tree 
+	    species groups and the results of four species groups are presented in 
+	    this paper. This prediction system will play an important role in 
+	    "waste" or "residue" surveys in British Columbia and in reconstructing 
+	    the initial stand conditions by estimating diameter at breast height.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1992-10-01</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://pubs.cif-ifc.org/doi/10.5558/tfc68623-5">http://pubs.cif-ifc.org/doi/10.5558/tfc68623-5</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>10/30/2024, 10:05:21 AM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>68</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>623-627</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc68623-5">10.5558/tfc68623-5</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546, 1499-9315</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>10/30/2024, 10:05:21 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>10/30/2024, 10:05:21 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_BQVI66HC">
+	<div><div data-schema-version="9"><p>Revisado por Marcos Marivil</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_XC3A5ALU">Full Text					</li>
+    </ul>
+  </li>
+  <li id="item_UDCPGS8V" class="item journalArticle">
+    <h2>A simple stem taper model with mixed effects for boreal black spruce</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Geneviève Lejeune</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Chhun-Huor Ung</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Mathieu Fortin</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Xiao Jing Guo</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Marie-Claude Lambert</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Jean-Claude Ruel</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>We simplified Kozak’s taper model by setting the inflection 
+	    point at 1.3&nbsp;m (dbh) without losing accuracy and precision. The 
+	    simplification was required to facilitate the estimation of the 
+	    covariance parameters when using a mixed-effects method. This method was
+	    necessary to take into account the correlation among multiple diameter 
+	    measurements on an individual stem. The simple stem taper model was 
+	    fitted to an extended data set collected across the province of Quebec, 
+	    Canada. Comparison of the predicted stem taper and the derived stem 
+	    volume with those obtained using existing models showed a comparable 
+	    predictive power for the simple model. Including a prediction of the 
+	    tree random effects based on supplementary diameter measurements of the 
+	    bole improves the predictive ability of the model around the extra 
+	    diameter observation. This model offers welcome simplicity as a means of
+	    predicting tree taper at coarse resolution for planning tree 
+	    harvesting.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2009-09-01</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>Springer Link</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://doi.org/10.1007/s10342-009-0300-8">https://doi.org/10.1007/s10342-009-0300-8</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>8/12/2024, 11:16:53 AM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>128</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>505-513</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>European Journal of Forest Research</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s10342-009-0300-8">10.1007/s10342-009-0300-8</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Eur J Forest Res</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1612-4677</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>8/12/2024, 11:16:53 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>8/12/2024, 11:16:53 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="tags">Tags:</h3>
+    <ul class="tags">
+      <li>Black spruce</li>
+      <li>Random effects</li>
+      <li>Stem taper</li>
+      <li>Variable-exponent taper equation</li>
+    </ul>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_YLEUCR8E">
+	<div><div data-schema-version="9"><p>Revisado por Nicolás Campos</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_4VS66CBK">Full Text PDF					</li>
     </ul>
   </li>
   <li id="item_6UT8CLZ8" class="item journalArticle">
@@ -2337,6 +3137,82 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_FLXUAIPR">PDF					</li>
     </ul>
   </li>
+  <li id="item_CQAK3MIL" class="item journalArticle">
+    <h2>Ajuste y validación de ecuaciones de volumen para un relicto del bosque de Roble-Laurel-Lingue</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Christian Salas Eljatib</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>07/2002</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0717-92002002000200009&amp;lng=en&amp;nrm=iso&amp;tlng=en">http://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0717-92002002000200009&amp;lng=en&amp;nrm=iso&amp;tlng=en</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>7/22/2024, 9:18:43 AM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>23</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Bosque (Valdivia)</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4067/S0717-92002002000200009">10.4067/S0717-92002002000200009</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>2</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Bosque (Valdivia)</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0717-9200</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>7/22/2024, 9:18:43 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>7/22/2024, 9:18:43 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_4FX435LK">
+	<div><div data-schema-version="9"><p>Revisado por Christian Salas</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_YGINIFUE">Salas Eljatib - 2002 - Ajuste y validación de ecuaciones de volumen para .pdf					</li>
+    </ul>
+  </li>
   <li id="item_TP67IQV9" class="item journalArticle">
     <h2>Variable-exponent taper equations for jack pine, black spruce, and balsam fir in eastern Canada</h2>
     <table>
@@ -2416,6 +3292,181 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_DZG7WAAR">Sharma y Zhang - 2004 - Variable-exponent taper equations for jack pine, b.pdf					</li>
+    </ul>
+  </li>
+  <li id="item_DRD2S5TV" class="item journalArticle">
+    <h2>A Cruising Computer for Variable Plots, Tree Heights, and Slope Correction</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Albert R. Stage</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1959-11-01</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://doi.org/10.1093/jof/57.11.835">https://doi.org/10.1093/jof/57.11.835</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>57</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>835-836</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Journal of Forestry</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/jof/57.11.835">10.1093/jof/57.11.835</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>11</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Journal of Forestry</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0022-1201</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>11/26/2024, 9:14:08 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_FV6KDRC4">
+	<div><div data-schema-version="9"><p>Revisado por Christian Salas</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_Q4DM3Q97">PDF					</li>
+      <li id="item_YN6PG93B">Snapshot					</li>
+    </ul>
+  </li>
+  <li id="item_FPN6LEB9" class="item journalArticle">
+    <h2>Height prediction equations using diameter and stand density measures</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Christie Staudhammer</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Valerie LeMay</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Height equations for western hemlock (Tsuga heterophylla 
+	    (Raf.) Sarg.), western red cedar (Thuja plicata Donn), Douglas-fir 
+	    (Pseudotsuga menziesii (Mirb.) Franco), and alder (Alnus rubra Bong. and
+	    Alnus tenuifolia Nutt.) were fitted using dbh as the predictor 
+	    variable. A simple, non-linear equation gave very similar results to the
+	    Weibull distribution, except for hemlock, which was better modelled 
+	    using the more flexible Weibull distribution function. Introducing stand
+	    density variables into the base equations resulted in increased 
+	    accuracy for predicting heights of alder. Smaller improvements were 
+	    found for Douglas-fir, cedar, and hemlock. Key words: estimating height,
+	    Coastal BC, Weibull estimation, stand density measures</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2000-04-01</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://pubs.cif-ifc.org/doi/10.5558/tfc76303-2">http://pubs.cif-ifc.org/doi/10.5558/tfc76303-2</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>9/13/2024, 12:25:05 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>76</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>303-309</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc76303-2">10.5558/tfc76303-2</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>2</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546, 1499-9315</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>11/30/2023, 4:29:16 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>1/8/2025, 10:24:55 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_F9K4YP6B">
+	<div><div data-schema-version="9"><p>Revisado por Rocío Reinoso. Aceptado con observaciones.</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_QIVJGSBA">Full Text					</li>
     </ul>
   </li>
   <li id="item_MNPCEYZK" class="item journalArticle">
@@ -2635,6 +3686,217 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <ul class="attachments">
       <li id="item_H99I9DHM">PDF					</li>
       <li id="item_BN26B4I6">ScienceDirect Snapshot					</li>
+    </ul>
+  </li>
+  <li id="item_U6YMFWBB" class="item journalArticle">
+    <h2>New Models for Predicting Diameter at Breast Height from Stump Dimensions</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>James A. Westfall</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Abstract
+            Models to predict dbh from stump dimensions are presented 
+	    for 18 species groups. Data used to fit the models were collected across
+	    thirteen states in the northeastern United States. Primarily because of
+	    the presence of multiple measurements from each tree, a mixed-effects 
+	    modeling approach was used to account for the lack of independence among
+	    observations. The heterogeneous error variance was described as a 
+	    function of stump diameter, which allowed for more accurate 
+	    representation of prediction intervals. Application of the mean response
+	    model (fixed-effects parameters only) to independent data indicated an 
+	    average absolute error between 0.2 and 0.7 in. for most groups. An 
+	    additional advantage is that random-effect parameters allow the model to
+	    be calibrated to local conditions if some additional data are 
+	    available. An example is provided that indicates the local calibration 
+	    results in a mean residual value that is closer to zero compared with 
+	    the mean response model. Efforts in other locales to use stump 
+	    information to inform dbh predictions can obtain the same advancements 
+	    by adopting a similar modeling methodology.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2010-03-01</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://academic.oup.com/njaf/article/27/1/21/4774230">https://academic.oup.com/njaf/article/27/1/21/4774230</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>8/19/2024, 1:22:34 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>27</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>21-27</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Northern Journal of Applied Forestry</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/njaf/27.1.21">10.1093/njaf/27.1.21</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0742-6348, 1938-3762</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>8/19/2024, 1:22:34 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>8/19/2024, 1:22:34 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_RBTJRXGB">
+	<div><div data-schema-version="9"><p>Revisado por Marcos Marivil</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_IFKZRKKM">Full Text					</li>
+    </ul>
+  </li>
+  <li id="item_I936DGKK" class="item journalArticle">
+    <h2>Comparison of Data Grouping Strategies on Prediction Accuracy of Tree-Stem Taper for Six Common Species in the Southeastern US</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Sheng-I Yang</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>P. Corey Green</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Clustering data into similar characteristic groups is a 
+	    commonly-used strategy in model development. However, the impact of data
+	    grouping strategies on modeling stem taper has not been well 
+	    quantified. The objective of this study was to compare the prediction 
+	    accuracy of different data grouping strategies. Specifically, a 
+	    population-level model was compared to the models fitted with grouped 
+	    data based on taxonomic rank, tree form and size. A total of 3678 trees 
+	    were used in the analyses, which included six common species in upland 
+	    hardwood forests of the southeastern U.S. Results showed that overall 
+	    predictions are more accurate when building stem taper models at the 
+	    species, species group or division level rather than at the population 
+	    level. The prediction accuracy was not considerably improved between 
+	    species-specific functions and models fitted with species-related groups
+	    for the four hardwood species examined. Grouping data by taxonomic rank
+	    provided more reliable predictions than height-to-diameter ratio (H–D 
+	    ratio) or diameter at breast height (DBH). The form/size-related 
+	    grouping methods (i.e., data grouped by H–D ratio or DBH) generally did 
+	    not improve the prediction precision compared to a population-level 
+	    model. In this study, the effect of sample size in model fitting showed a
+	    minimal impact on prediction accuracy. The methodology presented in 
+	    this study provides a modeling strategy for mixed-species data, which 
+	    will be of practical importance when data grouping is needed for 
+	    developing stem taper models.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2022-01-20</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://www.mdpi.com/1999-4907/13/2/156">https://www.mdpi.com/1999-4907/13/2/156</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>8/8/2024, 11:00:09 AM</td>
+	</tr>
+	<tr>
+	  <th>Rights</th>
+	  <td>https://creativecommons.org/licenses/by/4.0/</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>13</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>156</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Forests</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.3390/f13020156">10.3390/f13020156</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>2</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Forests</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1999-4907</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>8/8/2024, 11:00:09 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>8/8/2024, 11:00:09 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_6YJK69GF">
+	<div><div data-schema-version="9"><p>Revisado por Víctor Pacheco</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_XQLZU4MB">Full Text					</li>
     </ul>
   </li>
   <li id="item_YDFVT8AP" class="item journalArticle">
