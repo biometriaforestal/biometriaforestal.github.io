@@ -2277,79 +2277,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Sean McMahon</td>
 	</tr>
 	<tr>
-	  <th>Abstract</th>
-	  <td>Abstract
-            
-            
-            
-            
-            Calibration of local, regional or global allometric 
-	    equations to estimate biomass at the tree level constitutes a 
-	    significant burden on projects aiming at reducing Carbon emissions from 
-	    forest degradation and deforestation. The objective of this contribution
-	    is to assess the precision and accuracy of Terrestrial Laser Scanning (
-            TLS
-            ) for estimating volumes and above‐ground biomass (
-            AGB
-            ) of the woody parts of tropical trees, and for the 
-	    calibration of allometric models.
-            
-            
-            
-            
-            We used a destructive dataset of 61 trees, with 
-	    diameters and
-            AGB
-            of up to 186.6&nbsp;cm and 60&nbsp;Mg respectively, 
-	    which were scanned, felled and weighed in the semi‐deciduous forests of 
-	    eastern Cameroon. We present an operational approach based on available 
-	    software allowing the retrieving of
-            TLS
-            volume with low bias and high accuracy for large 
-	    tropical trees. Edition of the obtained models proved necessary, mainly 
-	    to account for the complexity of buttressed parts of tree trunks, which 
-	    were separately modelled through a meshing approach, and to bring a few 
-	    corrections in the topology and geometry of branches, thanks to the
-            amapstudio
-            ‐scan software.
-            
-            
-            
-            
-            Over the entire dataset,
-            TLS
-            ‐derived volumes proved highly reliable for branches
-	    larger than 5&nbsp;cm in diameter. The volumes of the remaining woody 
-	    parts estimated for stumps, stems and crowns as well as for the whole 
-	    tree proved very accurate (
-            RMSE
-            below 2.81% and
-            R
-            ² above of .98) and unbiased. Once converted into
-            AGB
-            using mean local‐specific wood density values,
-            TLS
-            estimates allowed calibrating a biomass allometric 
-	    model with coefficients statistically undistinguishable from those of a 
-	    model based on destructive data. The Unedited Quantitative Structure 
-	    Model (
-            QSM
-            ) however leads to systematic overestimations of 
-	    woody volumes and subsequently to significantly different allometric 
-	    parameters.
-            
-            
-            
-            
-            We can therefore conclude that a non‐destructive
-            TLS
-            approach can now be used as an operational 
-	    alternative to traditional destructive sampling to build the allometric 
-	    equations, although attention must be paid to the quality of
-            QSM
-            model adjustments to avoid systematic bias.</td>
-	</tr>
-	<tr>
 	  <th>Date</th>
 	  <td>04/2018</td>
 	</tr>
@@ -2411,7 +2338,7 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Modified</th>
-	  <td>5/5/2025, 10:21:32 AM</td>
+	  <td>6/5/2025, 3:52:23 PM</td>
 	</tr>
     </tbody></table>
     <h3 class="notes">Notes:</h3>
