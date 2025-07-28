@@ -26,18 +26,18 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	<td>Abstract
-          The prediction performance of eight height-diameter 
-	  regression models was compared for estimating mean stand height when 
-	  fitted to data selected from 175 loblolly pine (Pinus taeda) sample 
-	  plots by (i) simple random sampling without replacement, and (ii) 
-	  stratified random sampling with dbh classes acting as strata. Among the 
-	  models tested, the nonlinear model of the form H = aeb/D performed best 
-	  especially when fitted to data selected by simple random sampling. A 
-	  small gain in precision obtained by stratification into dbh classes was 
-	  outweighed by a substantial increase in bias due to the arbitrary 
-	  allocation of numbers of sample trees to the strata. To update existing 
+	  The prediction performance of eight height-diameter
+	  regression models was compared for estimating mean stand height when
+	  fitted to data selected from 175 loblolly pine (Pinus taeda) sample
+	  plots by (i) simple random sampling without replacement, and (ii)
+	  stratified random sampling with dbh classes acting as strata. Among the
+	  models tested, the nonlinear model of the form H = aeb/D performed best
+	  especially when fitted to data selected by simple random sampling. A
+	  small gain in precision obtained by stratification into dbh classes was
+	  outweighed by a substantial increase in bias due to the arbitrary
+	  allocation of numbers of sample trees to the strata. To update existing
 	  height-diameter models, it is recommended that new trees be selected and
-	  measured on every occasion instead of retaining the same sample trees 
+	  measured on every occasion instead of retaining the same sample trees
 	  used previously for model fitting. For. Sci. 38(1):192-198.</td>
 	</tr>
 	<tr>
@@ -190,7 +190,7 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
   </li>
   <li id="item_86LSBTG8" class="item journalArticle">
-    <h2>Developing fully compatible taper and volume equations for all 
+    <h2>Developing fully compatible taper and volume equations for all
       stem components of Eucalyptus globoidea Blakely trees in New Zealand</h2>
     <table>
       <tbody><tr>
@@ -211,47 +211,47 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Background: Individual-tree taper and volume equations are 
-	    essential for forest management. They provide estimates of volume that 
-	    are incorporated into plot-level volume equations and also into growth 
-	    and yield models to estimate volumes per hectare in forest crops. 
-	    Moreover, taper equations allow forest managers to estimate dimensions 
-	    of logs that can be cut from stems in their forests when they have 
+	  <td>Background: Individual-tree taper and volume equations are
+	    essential for forest management. They provide estimates of volume that
+	    are incorporated into plot-level volume equations and also into growth
+	    and yield models to estimate volumes per hectare in forest crops.
+	    Moreover, taper equations allow forest managers to estimate dimensions
+	    of logs that can be cut from stems in their forests when they have
 	    measured diameters at breast height and heights of trees in inventories.
-	    Compatible taper and volume equations have the property that the same 
-	    individual tree volume can be estimated either from the tree volume 
-	    equation or by integrating the taper equation. Durable eucalypt species 
-	    such as Eucalyptus globoidea Blakely, however, have especially valuable 
+	    Compatible taper and volume equations have the property that the same
+	    individual tree volume can be estimated either from the tree volume
+	    equation or by integrating the taper equation. Durable eucalypt species
+	    such as Eucalyptus globoidea Blakely, however, have especially valuable
 	    heartwood and so managers require estimates of the volumes and shapes of
-	    heartwood zones within trees. Simple overall wood taper and volume 
-	    equations would therefore be inadequate. Methods: 74 Eucalyptus 
-	    globoidea trees were destructively sampled in 8 different trial plots 
-	    throughout New Zealand. Tree ages were 7 to 29 years old, the DBHs were 
-	    11 to 67.6 cm and the heights were 7.2 to 35.4 m. All trees were felled 
-	    and lengths and taper diameters outside bark were measured. To measure 
-	    taper diameters of heartwood and sapwood, discs were cut at irregular 
-	    intervals along the stems. Heartwood and sapwood components were 
-	    identified by applying methyl orange dye and quantified using image 
-	    analysis. In this study we extended compatibility so that sums of 
-	    estimated volumes of separate components of stems, bark, sapwood and 
+	    heartwood zones within trees. Simple overall wood taper and volume
+	    equations would therefore be inadequate. Methods: 74 Eucalyptus
+	    globoidea trees were destructively sampled in 8 different trial plots
+	    throughout New Zealand. Tree ages were 7 to 29 years old, the DBHs were
+	    11 to 67.6 cm and the heights were 7.2 to 35.4 m. All trees were felled
+	    and lengths and taper diameters outside bark were measured. To measure
+	    taper diameters of heartwood and sapwood, discs were cut at irregular
+	    intervals along the stems. Heartwood and sapwood components were
+	    identified by applying methyl orange dye and quantified using image
+	    analysis. In this study we extended compatibility so that sums of
+	    estimated volumes of separate components of stems, bark, sapwood and
 	    heartwood, would equal overall tree volume estimates. In addition, taper
-	    equations were made for outside bark, inside bark and heartwood that 
-	    were compatible with their respective volume equations. Parameters of 
-	    five volume equations for whole stem, whole wood, bark, sapwood, and 
-	    heartwood were simultaneously estimated. Compatible taper equations for 
-	    whole stem, stem wood and heartwood were estimated so that they were 
-	    compatible with the volume equations, thereby creating a fully 
-	    compatible system. Results: Root mean squared error (RMSE) of volume 
-	    models were 0.1248298 m3 for heartwood, 0.05496807 m3 for sapwood, 
-	    0.1539625 m3 for wood inside bark, 0.1108201 m3 for bark and 0.1439786 
-	    m3 for wood including bark. RMSE of taper models was 2.572765 cm for 
-	    heartwood, 2.348552 cm for wood inside bark and 2.474088 cm for wood 
-	    including bark. Conclusions: A&nbsp;compatible system of multiple taper 
-	    and volume equations can be fitted through the simultaneous fitting of 
+	    equations were made for outside bark, inside bark and heartwood that
+	    were compatible with their respective volume equations. Parameters of
+	    five volume equations for whole stem, whole wood, bark, sapwood, and
+	    heartwood were simultaneously estimated. Compatible taper equations for
+	    whole stem, stem wood and heartwood were estimated so that they were
+	    compatible with the volume equations, thereby creating a fully
+	    compatible system. Results: Root mean squared error (RMSE) of volume
+	    models were 0.1248298 m3 for heartwood, 0.05496807 m3 for sapwood,
+	    0.1539625 m3 for wood inside bark, 0.1108201 m3 for bark and 0.1439786
+	    m3 for wood including bark. RMSE of taper models was 2.572765 cm for
+	    heartwood, 2.348552 cm for wood inside bark and 2.474088 cm for wood
+	    including bark. Conclusions: A&nbsp;compatible system of multiple taper
+	    and volume equations can be fitted through the simultaneous fitting of
 	    parameters with minimal bias and precision levels of &nbsp;± 0.055-0.154
-	    m3 for volume equations and ± 2.35 to 2.57 cm for taper equations. 
+	    m3 for volume equations and ± 2.35 to 2.57 cm for taper equations.
 	    Leave-one-out cross-validation of the fitted models yielded very similar
-	    levels of precision and bias to those encountered when fitting models 
+	    levels of precision and bias to those encountered when fitting models
 	    with the entire dataset.</td>
 	</tr>
 	<tr>
@@ -357,69 +357,69 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	  <td>Summary
-            
-            
-            
-            Climate models predict increasing drought intensity 
+
+
+
+	    Climate models predict increasing drought intensity
 	    and frequency for many regions, which may have negative consequences for
-	    tree recruitment, growth and mortality, as well as forest ecosystem 
+	    tree recruitment, growth and mortality, as well as forest ecosystem
 	    services. Furthermore, practical strategies for minimizing vulnerability
-	    to drought are limited. Tree population density, a metric of tree 
-	    abundance in a given area, is a primary driver of competitive intensity 
-	    among trees, which influences tree growth and mortality. Manipulating 
-	    tree population density may be a mechanism for moderating 
-	    drought‐induced stress and growth reductions, although the relationship 
-	    between tree population density and tree drought vulnerability remains 
+	    to drought are limited. Tree population density, a metric of tree
+	    abundance in a given area, is a primary driver of competitive intensity
+	    among trees, which influences tree growth and mortality. Manipulating
+	    tree population density may be a mechanism for moderating
+	    drought‐induced stress and growth reductions, although the relationship
+	    between tree population density and tree drought vulnerability remains
 	    poorly quantified, especially across climatic gradients.
-            
-            
-            
-            In this study, we examined three long‐term forest 
-	    ecosystem experiments in two widely distributed North American pine 
+
+
+
+	    In this study, we examined three long‐term forest
+	    ecosystem experiments in two widely distributed North American pine
 	    species, ponderosa pine
-            
-            P
-            inus ponderosa
-            
-            (Lawson &amp; C. Lawson) and red pine
-            
-            P
-            inus resinosa
-            
-            (Aiton), to better elucidate the relationship 
-	    between tree population density, growth and drought. These experiments 
-	    span a broad latitude and aridity range and include tree population 
-	    density treatments that have been purposefully maintained for several 
-	    decades. We investigated how tree population density influenced 
-	    resistance (growth during drought) and resilience (growth after drought 
-	    compared to pre‐drought growth) of stand‐level growth during and after 
+
+	    P
+	    inus ponderosa
+
+	    (Lawson &amp; C. Lawson) and red pine
+
+	    P
+	    inus resinosa
+
+	    (Aiton), to better elucidate the relationship
+	    between tree population density, growth and drought. These experiments
+	    span a broad latitude and aridity range and include tree population
+	    density treatments that have been purposefully maintained for several
+	    decades. We investigated how tree population density influenced
+	    resistance (growth during drought) and resilience (growth after drought
+	    compared to pre‐drought growth) of stand‐level growth during and after
 	    documented drought events.
-            
-            
-            
-            Our results show that relative tree population density
+
+
+
+	    Our results show that relative tree population density
 	    was negatively related to drought resistance and resilience, indicating
-	    that trees growing at lower densities were less vulnerable to drought. 
-	    This result was apparent in all three forest ecosystems, and was 
+	    that trees growing at lower densities were less vulnerable to drought.
+	    This result was apparent in all three forest ecosystems, and was
 	    consistent across species, stand age and drought intensity.
-            
-            
-            
-            Synthesis and applications
-            . Our results highlighted that managing pine forest 
-	    ecosystems at low tree population density represents a promising 
-	    adaptive strategy for reducing the adverse impacts of drought on forest 
-	    growth in coming decades. Nonetheless, the broader applicability of our 
-	    findings to other types of forest ecosystems merits additional 
+
+
+
+	    Synthesis and applications
+	    . Our results highlighted that managing pine forest
+	    ecosystems at low tree population density represents a promising
+	    adaptive strategy for reducing the adverse impacts of drought on forest
+	    growth in coming decades. Nonetheless, the broader applicability of our
+	    findings to other types of forest ecosystems merits additional
 	    investigation.
-            
-            
-            
-            
-            , 
-            Our results highlighted that managing pine forest ecosystems
+
+
+
+
+	    ,
+	    Our results highlighted that managing pine forest ecosystems
 	    at low tree population density represents a promising adaptive strategy
-	    for reducing the adverse impacts of drought on forest growth in coming 
+	    for reducing the adverse impacts of drought on forest growth in coming
 	    decades. Nonetheless, the broader applicability of our findings to other
 	    types of forest ecosystems merits additional investigation.</td>
 	</tr>
@@ -646,8 +646,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
   </li>
   <li id="item_BZXHUYIG" class="item journalArticle">
-    <h2>Modelos de perfil de tronco en &lt;i&gt;Nothofagus 
-      pumilio&lt;/i&gt; (Poepp. et Endl.) Krasser y su utilización en el 
+    <h2>Modelos de perfil de tronco en &lt;i&gt;Nothofagus
+      pumilio&lt;/i&gt; (Poepp. et Endl.) Krasser y su utilización en el
       cálculo del volumen total</h2>
     <table>
       <tbody><tr>
@@ -784,27 +784,27 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Tree height is one of the most important variables for 
-	    quantitative assessment of forest stocks, but it is difficult to 
-	    directly measure. Such allometric relationships of trees can vary 
-	    between geographical regions, however, mainly due to climatic, edaphic, 
-	    and floristic gradients. Based on the hypothesis that different forest 
-	    types influence the generic modeling of tree height–diameter 
-	    relationships on geographical scales, this study aimed to (i) fit 
-	    equations to estimate tree height in Atlantic Forest types in the state 
+	  <td>Tree height is one of the most important variables for
+	    quantitative assessment of forest stocks, but it is difficult to
+	    directly measure. Such allometric relationships of trees can vary
+	    between geographical regions, however, mainly due to climatic, edaphic,
+	    and floristic gradients. Based on the hypothesis that different forest
+	    types influence the generic modeling of tree height–diameter
+	    relationships on geographical scales, this study aimed to (i) fit
+	    equations to estimate tree height in Atlantic Forest types in the state
 	    of Rio de Janeiro, Brazil; (ii) compare efficiency and precision between
-	    generic and specific equations for forest types; and (iii) test the 
-	    effect of different forest types and species on the height–diameter 
-	    relationship. Four allometric models were tested for all forests 
-	    (generic) and three main forest types (specific). Effects of tree size, 
-	    forest types, and species on tree height estimation were analyzed using 
-	    multiple linear models and mixed-effect linear models. A significant 
-	    effect of forest type and species on tree height was seen, showing the 
-	    need to apply local specific equations to minimize the effects that are 
+	    generic and specific equations for forest types; and (iii) test the
+	    effect of different forest types and species on the height–diameter
+	    relationship. Four allometric models were tested for all forests
+	    (generic) and three main forest types (specific). Effects of tree size,
+	    forest types, and species on tree height estimation were analyzed using
+	    multiple linear models and mixed-effect linear models. A significant
+	    effect of forest type and species on tree height was seen, showing the
+	    need to apply local specific equations to minimize the effects that are
 	    not captured by generic equations. Differences in tree allometry between
-	    forest types were associated with temperature, rainfall, soil, and 
-	    forest structure. These results confirm the effect of the local 
-	    environment on the height–diameter relationship of trees as found over 
+	    forest types were associated with temperature, rainfall, soil, and
+	    forest structure. These results confirm the effect of the local
+	    environment on the height–diameter relationship of trees as found over
 	    large scales in tropical forests.</td>
 	</tr>
 	<tr>
@@ -905,22 +905,22 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Scaling relationships that describe variation in population 
-	    density with body size in ecological communities, such as the thinning 
-	    law in plant ecology1,2,3, can be explained in terms of how individuals 
-	    use resources as a function of their size. Data for rates of xylem 
+	  <td>Scaling relationships that describe variation in population
+	    density with body size in ecological communities, such as the thinning
+	    law in plant ecology1,2,3, can be explained in terms of how individuals
+	    use resources as a function of their size. Data for rates of xylem
 	    transport as a function of stem diameter show that rates of resource use
 	    in individual plants scale as approximately the 3/4 power of body mass,
-	    which is the same as metabolic rates of animals4,5,6,7. Here we use 
-	    this relationship to develop a mechanistic model for relationships 
-	    between density and mass in resource-limited plants. It predicts that 
-	    average plant size should scale as the −4/3 power of maximum population 
-	    density, in agreement with empirical evidence and comparable 
-	    relationships in animals5,6,8, but significantly less than the −3/2 
+	    which is the same as metabolic rates of animals4,5,6,7. Here we use
+	    this relationship to develop a mechanistic model for relationships
+	    between density and mass in resource-limited plants. It predicts that
+	    average plant size should scale as the −4/3 power of maximum population
+	    density, in agreement with empirical evidence and comparable
+	    relationships in animals5,6,8, but significantly less than the −3/2
 	    power predicted by geometric models1. Our model implies that fundamental
-	    constraints on metabolic rate are reflected in the scaling of 
-	    population density and other ecological and evolutionary phenomena, 
-	    including the finding that resource allocation among species in 
+	    constraints on metabolic rate are reflected in the scaling of
+	    population density and other ecological and evolutionary phenomena,
+	    including the finding that resource allocation among species in
 	    ecosystems is independent of body size5,6,8.</td>
 	</tr>
 	<tr>
@@ -1015,13 +1015,13 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Relationships between tree height and diameter at breast 
-	    height were described for 15 species across a range of sites in eastern 
-	    Texas using a two-parameter equation. Maximum height varied 
-	    significantly from site to site within a species, but the ratio of 
-	    initial slope to maximum height was generally constant. Sites favoring 
-	    tall trees of one species tended to favor tall trees of all species, 
-	    especially among species found in the overstory. The greatest rates of 
+	  <td>Relationships between tree height and diameter at breast
+	    height were described for 15 species across a range of sites in eastern
+	    Texas using a two-parameter equation. Maximum height varied
+	    significantly from site to site within a species, but the ratio of
+	    initial slope to maximum height was generally constant. Sites favoring
+	    tall trees of one species tended to favor tall trees of all species,
+	    especially among species found in the overstory. The greatest rates of
 	    height growth for a given diameter at breast height increment were found
 	    among some midstory and understory species.</td>
 	</tr>
@@ -1107,15 +1107,15 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>[Software: https://cran.r-project.org/package=dyntaper] 
-	    Tree profile or taper models are an important component of decision 
-	    support systems for forest management. An extensive body of theory and 
-	    observations on the mechanisms of tree form development has accumulated 
-	    over the last 150 years. Quantitative mensurational models, however, 
-	    have made little use of that information. Taper models remain largely 
-	    empirical and static, describing tree dimensions and shape at one point 
-	    in time. Here taper equations are derived from simplified models of 
-	    radial stem growth consistent with physiological knowledge. It is 
+	  <td>[Software: https://cran.r-project.org/package=dyntaper]
+	    Tree profile or taper models are an important component of decision
+	    support systems for forest management. An extensive body of theory and
+	    observations on the mechanisms of tree form development has accumulated
+	    over the last 150 years. Quantitative mensurational models, however,
+	    have made little use of that information. Taper models remain largely
+	    empirical and static, describing tree dimensions and shape at one point
+	    in time. Here taper equations are derived from simplified models of
+	    radial stem growth consistent with physiological knowledge. It is
 	    expected that this approach may improve accuracy, especially when stands
 	    are subjected to varied density management alternatives.</td>
 	</tr>
@@ -1253,6 +1253,119 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_RIGF5Q6G">Full Text PDF					</li>
     </ul>
   </li>
+  <li id="item_TUR3USQQ" class="item journalArticle">
+    <h2>A crown ratio model for Austrian forests</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Hubert Hasenauer</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Robert A. Monserud</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>A crown ratio model for individual trees is developed for all
+	    major tree species in Austria. The study is part of a comprehensive
+	    project developing a distance-independent single tree growth simulator
+	    for the full range of stand conditions in Austria. Data were obtained
+	    from the Austrian National Forest Inventory and consist of more than 42
+	    000 trees growing on over 5000 permanent plots measured during 1981 and
+	    1985. Crown ratio was predicted using nonlinear regression with a
+	    logistic function. The argument of the logistic was a linear combination
+	    of tree size characteristics, stand density measures, and topographic
+	    site factors. The total variation explained by the model varied from 49%
+	    for larch to 17% for the ‘other broadleaf species’. The model explained
+	    41% of the variation in crown ratio for the principal species, Norway
+	    spruce. The model explained less than a quarter of the variation for all
+	    the broadleaf species and for stone pine. The effect of the size
+	    variables is approximately equal in importance to the variables
+	    representing competition for the major species. The set of topographic
+	    site factors explained the least amount of variation, less than 10% in
+	    all cases. Because the height/diameter ratio, the most important size
+	    variable, can also be considered to be an integrator of past
+	    competition, the crown ratio model is dominated by competition measures.
+	    A validation test using independent data from permanent research plots
+	    for the main species (Norway spruce, white fir, Scots pine, and beech)
+	    demonstrated that the models appear to be well behaved and robust for
+	    both pure even-aged and mixed uneven-aged stand types in Austria.
+	    Analyses of the residuals from permanent research plots representing a
+	    wide variety of thinning treatments indicate that the effect of
+	    management seems to be adequately represented by the model.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1996-08-01</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>ScienceDirect</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://www.sciencedirect.com/science/article/pii/0378112796037681">https://www.sciencedirect.com/science/article/pii/0378112796037681</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>7/26/2025, 7:25:14 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>84</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>49-60</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Forest Ecology and Management</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1016/0378-1127(96)03768-1">10.1016/0378-1127(96)03768-1</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Forest Ecology and Management</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0378-1127</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>7/26/2025, 7:25:14 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>7/26/2025, 7:25:14 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="tags">Tags:</h3>
+    <ul class="tags">
+      <li>Allometric</li>
+      <li>Even-aged</li>
+      <li>Logistic function</li>
+      <li>Mixed-species</li>
+      <li>Stand simulation</li>
+      <li>Uneven-aged</li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_STH6CHBY">PDF					</li>
+      <li id="item_6UPQFIF2">ScienceDirect Snapshot					</li>
+    </ul>
+  </li>
   <li id="item_GE5WC2K2" class="item journalArticle">
     <h2>Stem taper equations for poplars growing on farmland in Sweden</h2>
     <table>
@@ -1350,22 +1463,22 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>The crown ratio (the ratio of live crown length to total 
-	    height) of an individual tree in a stand can be predicted from commonly 
-	    measured stand and tree variables. For example, the ratio can be 
-	    estimated using a nonlinear model combining stand basal area (BA) and 
-	    initial tree diameter (DBH). The first term reflects the importance of 
-	    competition on crown ratio; the second term differentiates among trees 
-	    of different sizes.Biologically reasonable behavior is exhibited by the 
-	    crown ratio model. The core model, with only two parameters, is very 
+	  <td>The crown ratio (the ratio of live crown length to total
+	    height) of an individual tree in a stand can be predicted from commonly
+	    measured stand and tree variables. For example, the ratio can be
+	    estimated using a nonlinear model combining stand basal area (BA) and
+	    initial tree diameter (DBH). The first term reflects the importance of
+	    competition on crown ratio; the second term differentiates among trees
+	    of different sizes.Biologically reasonable behavior is exhibited by the
+	    crown ratio model. The core model, with only two parameters, is very
 	    flexible; the full model, with four parameters, is capable of describing
 	    a full range of logical crown ratio growth patterns. When extrapolated,
-	    this nonlinear model continues to be biologically reasonable. In 
-	    addition, the parameters are capable of theoretical interpretation.When 
-	    tested on a Lake States data base of over 150 000 trees, the moan crown 
-	    ratio estimation error was small, −2% for softwoods and +3% for 
-	    hardwoods. Variation in weather and survey crew effects did not appear 
-	    to contribute to errors in crown ratio estimation, although errors in 
+	    this nonlinear model continues to be biologically reasonable. In
+	    addition, the parameters are capable of theoretical interpretation.When
+	    tested on a Lake States data base of over 150 000 trees, the moan crown
+	    ratio estimation error was small, −2% for softwoods and +3% for
+	    hardwoods. Variation in weather and survey crew effects did not appear
+	    to contribute to errors in crown ratio estimation, although errors in
 	    crown ratio prediction did vary by region.</td>
 	</tr>
 	<tr>
@@ -1454,17 +1567,17 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Twenty nonlinear height–diameter functions were fitted and 
+	  <td>Twenty nonlinear height–diameter functions were fitted and
 	    evaluated for major Alberta species based on a data set consisting of 13
-	    489 felled trees for 16 different species. All functions were fitted 
-	    using weighted nonlinear least squares regression (w i = 1/DBH i ) 
-	    because of the problem of unequal error variance. The examination and 
-	    comparison of the weighted mean squared errors, the asymptotic 
-	    t-statistics for the parameters, and the plots of studentized residuals 
-	    against the predicted height show that many concave and sigmoidal 
+	    489 felled trees for 16 different species. All functions were fitted
+	    using weighted nonlinear least squares regression (w i = 1/DBH i )
+	    because of the problem of unequal error variance. The examination and
+	    comparison of the weighted mean squared errors, the asymptotic
+	    t-statistics for the parameters, and the plots of studentized residuals
+	    against the predicted height show that many concave and sigmoidal
 	    functions can be used to describe the height–diameter relationships. The
-	    sigmoidal functions such as the Weibull-type function, the modified 
-	    logistic function, the Chapman–Richards function, and the Schnute 
+	    sigmoidal functions such as the Weibull-type function, the modified
+	    logistic function, the Chapman–Richards function, and the Schnute
 	    function generally gave the most satisfactory results.</td>
 	</tr>
 	<tr>
@@ -1622,13 +1735,13 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Equations were derived for estimating stump volume, stump 
-	    inside bark diameter at any given height from ground and diameter at 
+	  <td>Equations were derived for estimating stump volume, stump
+	    inside bark diameter at any given height from ground and diameter at
 	    breast height from measured stump height and stump inside bark diameter.
-	    The equations were tested on 33 British Columbia commercial tree 
-	    species groups and the results of four species groups are presented in 
-	    this paper. This prediction system will play an important role in 
-	    "waste" or "residue" surveys in British Columbia and in reconstructing 
+	    The equations were tested on 33 British Columbia commercial tree
+	    species groups and the results of four species groups are presented in
+	    this paper. This prediction system will play an important role in
+	    "waste" or "residue" surveys in British Columbia and in reconstructing
 	    the initial stand conditions by estimating diameter at breast height.</td>
 	</tr>
 	<tr>
@@ -1733,20 +1846,20 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>We simplified Kozak’s taper model by setting the inflection 
-	    point at 1.3&nbsp;m (dbh) without losing accuracy and precision. The 
-	    simplification was required to facilitate the estimation of the 
+	  <td>We simplified Kozak’s taper model by setting the inflection
+	    point at 1.3&nbsp;m (dbh) without losing accuracy and precision. The
+	    simplification was required to facilitate the estimation of the
 	    covariance parameters when using a mixed-effects method. This method was
-	    necessary to take into account the correlation among multiple diameter 
-	    measurements on an individual stem. The simple stem taper model was 
-	    fitted to an extended data set collected across the province of Quebec, 
-	    Canada. Comparison of the predicted stem taper and the derived stem 
-	    volume with those obtained using existing models showed a comparable 
-	    predictive power for the simple model. Including a prediction of the 
-	    tree random effects based on supplementary diameter measurements of the 
-	    bole improves the predictive ability of the model around the extra 
+	    necessary to take into account the correlation among multiple diameter
+	    measurements on an individual stem. The simple stem taper model was
+	    fitted to an extended data set collected across the province of Quebec,
+	    Canada. Comparison of the predicted stem taper and the derived stem
+	    volume with those obtained using existing models showed a comparable
+	    predictive power for the simple model. Including a prediction of the
+	    tree random effects based on supplementary diameter measurements of the
+	    bole improves the predictive ability of the model around the extra
 	    diameter observation. This model offers welcome simplicity as a means of
-	    predicting tree taper at coarse resolution for planning tree 
+	    predicting tree taper at coarse resolution for planning tree
 	    harvesting.</td>
 	</tr>
 	<tr>
@@ -2031,24 +2144,24 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Understanding variation in tree stem form is fundamental to 
-	    both ecological and economic assessments of forest ecosystem structure 
-	    and function. Stem taper models (STMs) are widely used to describe tree 
-	    form, but it can be challenging to apply them to trees with stems that 
-	    diverge from an idealized norm, often leading to the exclusion of many 
-	    trees from stem taper studies. Here, new “whole-tree” form type classes 
-	    are advanced as simple and useful groupings for capturing stem form 
-	    variation of trees of diverse morphological types and tested with a 
-	    large tree data set without exclusion criteria. New form type classes 
-	    explained much more of main stem form variation than knowledge of tree 
-	    species, while “merchantable” form types explained the most variation 
-	    between trees and stands. Broad-leaved species were much more likely to 
-	    have complex stem forms than needle-leaved species, but species 
-	    “evergreenness” was a very weak predictor of stem form variation when 
-	    tree- and stand-level form variation was accounted for. A new, 
-	    generalized framework for stem taper modeling is demonstrated, using 
-	    both species and merchantable form types to capture tree-level random 
-	    effects. New form types and the STM approach are relatively easy to 
+	  <td>Understanding variation in tree stem form is fundamental to
+	    both ecological and economic assessments of forest ecosystem structure
+	    and function. Stem taper models (STMs) are widely used to describe tree
+	    form, but it can be challenging to apply them to trees with stems that
+	    diverge from an idealized norm, often leading to the exclusion of many
+	    trees from stem taper studies. Here, new “whole-tree” form type classes
+	    are advanced as simple and useful groupings for capturing stem form
+	    variation of trees of diverse morphological types and tested with a
+	    large tree data set without exclusion criteria. New form type classes
+	    explained much more of main stem form variation than knowledge of tree
+	    species, while “merchantable” form types explained the most variation
+	    between trees and stands. Broad-leaved species were much more likely to
+	    have complex stem forms than needle-leaved species, but species
+	    “evergreenness” was a very weak predictor of stem form variation when
+	    tree- and stand-level form variation was accounted for. A new,
+	    generalized framework for stem taper modeling is demonstrated, using
+	    both species and merchantable form types to capture tree-level random
+	    effects. New form types and the STM approach are relatively easy to
 	    apply and should be relatively simple to integrate into any conventional
 	    forest inventory system. Overall, the study demonstrates the importance
 	    of including and accounting for the diversity of observed stem forms in
@@ -2128,8 +2241,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
   </li>
   <li id="item_6AG8RYT9" class="item journalArticle">
-    <h2>Using terrestrial laser scanning data to estimate large tropical 
-      trees biomass and calibrate allometric models: A comparison with 
+    <h2>Using terrestrial laser scanning data to estimate large tropical
+      trees biomass and calibrate allometric models: A comparison with
       traditional destructive approach</h2>
     <table>
       <tbody><tr>
@@ -2286,19 +2399,19 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Crown class, site class, and breast-height age were 
-	    incorporated into Kozak's variable-exponent taper equation (A. Kozak. 
-	    1988. Can. J. For. Res. 18: 1363–1368) for three species: Douglas-fir 
-	    (Pseudotsugamenziesii (Mirb.) Franco), western red cedar (Thujaplicata 
-	    Donn), and aspen (Populustremuloides Michx.). For lodgepole pine 
-	    (Pinuscontorta Dougl.), crown ratio, breast-height age, and quadratic 
+	  <td>Crown class, site class, and breast-height age were
+	    incorporated into Kozak's variable-exponent taper equation (A. Kozak.
+	    1988. Can. J. For. Res. 18: 1363–1368) for three species: Douglas-fir
+	    (Pseudotsugamenziesii (Mirb.) Franco), western red cedar (Thujaplicata
+	    Donn), and aspen (Populustremuloides Michx.). For lodgepole pine
+	    (Pinuscontorta Dougl.), crown ratio, breast-height age, and quadratic
 	    mean diameter were incorporated into Kozak's taper equation. The effects
 	    of adding these variables to the exponent part of the taper equation on
-	    the prediction abilities of the taper model were assessed for 
-	    prediction of diameter inside bark along the stem, total tree volume, 
-	    and tree merchantable height. It was found that apart from the use of 
-	    crown ratio for lodgepole pine, the additional variables resulted in 
-	    only marginal improvements to the published version of Kozak's taper 
+	    the prediction abilities of the taper model were assessed for
+	    prediction of diameter inside bark along the stem, total tree volume,
+	    and tree merchantable height. It was found that apart from the use of
+	    crown ratio for lodgepole pine, the additional variables resulted in
+	    only marginal improvements to the published version of Kozak's taper
 	    function. Therefore, the cost of measuring these additional variables is
 	    not justifiable.</td>
 	</tr>
@@ -2440,15 +2553,15 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Twenty one taper functions from seven different groups of 
-	    models (single polynomials, segmented polynomials, potential, 
-	    exponential, variable exponent, trigonometric and logarithmic taper 
-	    functions) were fitted to a sample of 1694 diameter data. Diameter was 
-	    measured at different heights of 163 Pinus sylvestris L. type trees of 
-	    different ages and different site qualities from Galicia (Northest of 
-	    Spain). The adjusted equations were compared and validated through an 
-	    independent sample of 565 data of diameter-height from 73 type trees. A 
-	    volume equation with product classification including the chosen 
+	  <td>Twenty one taper functions from seven different groups of
+	    models (single polynomials, segmented polynomials, potential,
+	    exponential, variable exponent, trigonometric and logarithmic taper
+	    functions) were fitted to a sample of 1694 diameter data. Diameter was
+	    measured at different heights of 163 Pinus sylvestris L. type trees of
+	    different ages and different site qualities from Galicia (Northest of
+	    Spain). The adjusted equations were compared and validated through an
+	    independent sample of 565 data of diameter-height from 73 type trees. A
+	    volume equation with product classification including the chosen
 	    exponential taper equation was developed.</td>
 	</tr>
 	<tr>
@@ -2627,21 +2740,21 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	  <td>Abstract
-            Mapping aboveground forest biomass is central for assessing 
+	    Mapping aboveground forest biomass is central for assessing
 	    the global carbon balance. However, current large-scale maps show strong
-	    disparities, despite good validation statistics of their underlying 
-	    models. Here, we attribute this contradiction to a flaw in the 
-	    validation methods, which ignore spatial autocorrelation (SAC) in data, 
-	    leading to overoptimistic assessment of model predictive power. To 
-	    illustrate this issue, we reproduce the approach of large-scale mapping 
-	    studies using a massive forest inventory dataset of 11.8 million trees 
-	    in central Africa to train and validate a random forest model based on 
-	    multispectral and environmental variables. A standard nonspatial 
+	    disparities, despite good validation statistics of their underlying
+	    models. Here, we attribute this contradiction to a flaw in the
+	    validation methods, which ignore spatial autocorrelation (SAC) in data,
+	    leading to overoptimistic assessment of model predictive power. To
+	    illustrate this issue, we reproduce the approach of large-scale mapping
+	    studies using a massive forest inventory dataset of 11.8 million trees
+	    in central Africa to train and validate a random forest model based on
+	    multispectral and environmental variables. A standard nonspatial
 	    validation method suggests that the model predicts more than half of the
-	    forest biomass variation, while spatial validation methods accounting 
+	    forest biomass variation, while spatial validation methods accounting
 	    for SAC reveal quasi-null predictive power. This study underscores how a
-	    common practice in big data mapping studies shows an apparent high 
-	    predictive power, even when predictors have poor relationships with the 
+	    common practice in big data mapping studies shows an apparent high
+	    predictive power, even when predictors have poor relationships with the
 	    ecological variable of interest, thus possibly leading to erroneous maps
 	    and interpretations.</td>
 	</tr>
@@ -2827,17 +2940,17 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Se presenta un modelo de ahusamiento para Eucalyptus nitens 
-	    (Deane &amp; Maiden) Maiden. Este es un modelo no lineal que fue 
-	    ajustado con datos de 60 árboles con edades entre los 16 y 21 años, 
-	    diámetros normales entre 11,5 y 52,0 cm, y con alturas totales entre 
-	    12,27 y 47,49 m. Cosechados en 6 rodales localizados en 3 comunas de la 
-	    región de La Araucanía (Chile); en suelos de cenizas volcánicas. El 
-	    modelo se contrastó con los existentes en la literatura, obteniendo la 
-	    mejor precisión, el menor sesgo en cada fracción de altura, y la mayor 
-	    eficiencia predictiva con un comportamiento gráfico flexible y estable 
-	    en toda la longitud del fuste. La función de volumen obtenida de la 
-	    integración numérica del modelo de ahusamiento, predice más de 99% del 
+	  <td>Se presenta un modelo de ahusamiento para Eucalyptus nitens
+	    (Deane &amp; Maiden) Maiden. Este es un modelo no lineal que fue
+	    ajustado con datos de 60 árboles con edades entre los 16 y 21 años,
+	    diámetros normales entre 11,5 y 52,0 cm, y con alturas totales entre
+	    12,27 y 47,49 m. Cosechados en 6 rodales localizados en 3 comunas de la
+	    región de La Araucanía (Chile); en suelos de cenizas volcánicas. El
+	    modelo se contrastó con los existentes en la literatura, obteniendo la
+	    mejor precisión, el menor sesgo en cada fracción de altura, y la mayor
+	    eficiencia predictiva con un comportamiento gráfico flexible y estable
+	    en toda la longitud del fuste. La función de volumen obtenida de la
+	    integración numérica del modelo de ahusamiento, predice más de 99% del
 	    volumen del fuste sin corteza estimado mediante la fórmula de Smalian.</td>
 	</tr>
 	<tr>
@@ -2887,8 +3000,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
   </li>
   <li id="item_R9BGWTH7" class="item journalArticle">
-    <h2>Comparing strategies for modeling individual-tree height and 
-      height-to-crown base increment in mixed-species Acadian forests of 
+    <h2>Comparing strategies for modeling individual-tree height and
+      height-to-crown base increment in mixed-species Acadian forests of
       northeastern North America</h2>
     <table>
       <tbody><tr>
@@ -3146,15 +3259,15 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Height equations for western hemlock (Tsuga heterophylla 
-	    (Raf.) Sarg.), western red cedar (Thuja plicata Donn), Douglas-fir 
+	  <td>Height equations for western hemlock (Tsuga heterophylla
+	    (Raf.) Sarg.), western red cedar (Thuja plicata Donn), Douglas-fir
 	    (Pseudotsuga menziesii (Mirb.) Franco), and alder (Alnus rubra Bong. and
-	    Alnus tenuifolia Nutt.) were fitted using dbh as the predictor 
+	    Alnus tenuifolia Nutt.) were fitted using dbh as the predictor
 	    variable. A simple, non-linear equation gave very similar results to the
-	    Weibull distribution, except for hemlock, which was better modelled 
+	    Weibull distribution, except for hemlock, which was better modelled
 	    using the more flexible Weibull distribution function. Introducing stand
-	    density variables into the base equations resulted in increased 
-	    accuracy for predicting heights of alder. Smaller improvements were 
+	    density variables into the base equations resulted in increased
+	    accuracy for predicting heights of alder. Smaller improvements were
 	    found for Douglas-fir, cedar, and hemlock. Key words: estimating height,
 	    Coastal BC, Weibull estimation, stand density measures</td>
 	</tr>
@@ -3376,8 +3489,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
   </li>
   <li id="item_298G7FTK" class="item journalArticle">
-    <h2>Local uncertainty maps for land-use/land-cover classification 
-      without remote sensing and modeling work using a class-conditional 
+    <h2>Local uncertainty maps for land-use/land-cover classification
+      without remote sensing and modeling work using a class-conditional
       conformal approach</h2>
     <table>
       <tbody><tr>
@@ -3408,40 +3521,40 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <th>Abstract</th>
 	  <td>Land use/land cover (LULC) is one of the most impactful global
 	    change phenomenon. As a result, considerable effort has been devoted to
-	    creating large-scale LULC products from remote sensing data, enabling 
-	    the scientific community to use these products for a wide range of 
-	    downstream applications. Unfortunately, uncertainty associated with 
-	    these products is seldom quantified because most approaches are too 
-	    computationally intensive. Furthermore, uncertainty maps developed for 
-	    large regions might fail to perform adequately at the spatial scale in 
-	    which they will be used and might need to be customized to suit the 
-	    specific applications of end-users. In this study, we describe the 
-	    class-conditional conformal statistics method, an approach that 
-	    quantifies uncertainty more uniformly for each class but that requires 
-	    more calibration data than the conventional conformal method. Using the 
-	    class-conditional method, we show that it is possible to create 
-	    customized local uncertainty maps using local calibration data without 
-	    requiring remote sensing and modeling work and that these local 
-	    uncertainty maps outperform uncertainty maps calibrated based on global 
-	    data. We use empirical data from Brazil (i.e., Dynamic World LULC 
-	    product and Mapbiomas validation data) to demonstrate this methodology. 
-	    The analysis of these data reveals substantial heterogeneity in 
-	    observations of the same LULC class between Brazilian states, an 
-	    indication that national-level data are not representative of the focal 
-	    state, thus explaining why uncertainty maps calibrated using focal 
-	    state-level data outperform maps calibrated using national-level data. 
-	    Importantly, we develop straight-forward approaches to determine the 
-	    spatial extent over which calibration data are still representative of 
-	    the area of interest, ensuring that these data can be used to reliably 
-	    quantify uncertainty. We illustrate the class-conformal methodology by 
-	    creating uncertainty maps for a selected number of sites in Brazil. 
-	    Finally, we show how these uncertainty maps can yield valuable insights 
-	    for LULC map producers. Our methodology paves the way for users to 
-	    generate customized local uncertainty maps that are likely to be better 
-	    than uncertainty maps calibrated based on global data while at the same 
+	    creating large-scale LULC products from remote sensing data, enabling
+	    the scientific community to use these products for a wide range of
+	    downstream applications. Unfortunately, uncertainty associated with
+	    these products is seldom quantified because most approaches are too
+	    computationally intensive. Furthermore, uncertainty maps developed for
+	    large regions might fail to perform adequately at the spatial scale in
+	    which they will be used and might need to be customized to suit the
+	    specific applications of end-users. In this study, we describe the
+	    class-conditional conformal statistics method, an approach that
+	    quantifies uncertainty more uniformly for each class but that requires
+	    more calibration data than the conventional conformal method. Using the
+	    class-conditional method, we show that it is possible to create
+	    customized local uncertainty maps using local calibration data without
+	    requiring remote sensing and modeling work and that these local
+	    uncertainty maps outperform uncertainty maps calibrated based on global
+	    data. We use empirical data from Brazil (i.e., Dynamic World LULC
+	    product and Mapbiomas validation data) to demonstrate this methodology.
+	    The analysis of these data reveals substantial heterogeneity in
+	    observations of the same LULC class between Brazilian states, an
+	    indication that national-level data are not representative of the focal
+	    state, thus explaining why uncertainty maps calibrated using focal
+	    state-level data outperform maps calibrated using national-level data.
+	    Importantly, we develop straight-forward approaches to determine the
+	    spatial extent over which calibration data are still representative of
+	    the area of interest, ensuring that these data can be used to reliably
+	    quantify uncertainty. We illustrate the class-conformal methodology by
+	    creating uncertainty maps for a selected number of sites in Brazil.
+	    Finally, we show how these uncertainty maps can yield valuable insights
+	    for LULC map producers. Our methodology paves the way for users to
+	    generate customized local uncertainty maps that are likely to be better
+	    than uncertainty maps calibrated based on global data while at the same
 	    time being more relevant for the specific applications of these users. A
-	    tutorial is provided to show how this methodology can be implemented 
-	    without requiring remote sensing and modeling expertise to generate 
+	    tutorial is provided to show how this methodology can be implemented
+	    without requiring remote sensing and modeling expertise to generate
 	    uncertainty maps.</td>
 	</tr>
 	<tr>
@@ -3528,22 +3641,22 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	  <td>Abstract
-            Models to predict dbh from stump dimensions are presented 
+	    Models to predict dbh from stump dimensions are presented
 	    for 18 species groups. Data used to fit the models were collected across
 	    thirteen states in the northeastern United States. Primarily because of
-	    the presence of multiple measurements from each tree, a mixed-effects 
+	    the presence of multiple measurements from each tree, a mixed-effects
 	    modeling approach was used to account for the lack of independence among
-	    observations. The heterogeneous error variance was described as a 
-	    function of stump diameter, which allowed for more accurate 
+	    observations. The heterogeneous error variance was described as a
+	    function of stump diameter, which allowed for more accurate
 	    representation of prediction intervals. Application of the mean response
-	    model (fixed-effects parameters only) to independent data indicated an 
-	    average absolute error between 0.2 and 0.7 in. for most groups. An 
+	    model (fixed-effects parameters only) to independent data indicated an
+	    average absolute error between 0.2 and 0.7 in. for most groups. An
 	    additional advantage is that random-effect parameters allow the model to
-	    be calibrated to local conditions if some additional data are 
-	    available. An example is provided that indicates the local calibration 
-	    results in a mean residual value that is closer to zero compared with 
-	    the mean response model. Efforts in other locales to use stump 
-	    information to inform dbh predictions can obtain the same advancements 
+	    be calibrated to local conditions if some additional data are
+	    available. An example is provided that indicates the local calibration
+	    results in a mean residual value that is closer to zero compared with
+	    the mean response model. Efforts in other locales to use stump
+	    information to inform dbh predictions can obtain the same advancements
 	    by adopting a similar modeling methodology.</td>
 	</tr>
 	<tr>
@@ -3628,28 +3741,28 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	  <td>Clustering data into similar characteristic groups is a 
+	  <td>Clustering data into similar characteristic groups is a
 	    commonly-used strategy in model development. However, the impact of data
-	    grouping strategies on modeling stem taper has not been well 
-	    quantified. The objective of this study was to compare the prediction 
-	    accuracy of different data grouping strategies. Specifically, a 
-	    population-level model was compared to the models fitted with grouped 
-	    data based on taxonomic rank, tree form and size. A total of 3678 trees 
-	    were used in the analyses, which included six common species in upland 
-	    hardwood forests of the southeastern U.S. Results showed that overall 
-	    predictions are more accurate when building stem taper models at the 
-	    species, species group or division level rather than at the population 
-	    level. The prediction accuracy was not considerably improved between 
+	    grouping strategies on modeling stem taper has not been well
+	    quantified. The objective of this study was to compare the prediction
+	    accuracy of different data grouping strategies. Specifically, a
+	    population-level model was compared to the models fitted with grouped
+	    data based on taxonomic rank, tree form and size. A total of 3678 trees
+	    were used in the analyses, which included six common species in upland
+	    hardwood forests of the southeastern U.S. Results showed that overall
+	    predictions are more accurate when building stem taper models at the
+	    species, species group or division level rather than at the population
+	    level. The prediction accuracy was not considerably improved between
 	    species-specific functions and models fitted with species-related groups
 	    for the four hardwood species examined. Grouping data by taxonomic rank
-	    provided more reliable predictions than height-to-diameter ratio (H–D 
-	    ratio) or diameter at breast height (DBH). The form/size-related 
-	    grouping methods (i.e., data grouped by H–D ratio or DBH) generally did 
-	    not improve the prediction precision compared to a population-level 
+	    provided more reliable predictions than height-to-diameter ratio (H–D
+	    ratio) or diameter at breast height (DBH). The form/size-related
+	    grouping methods (i.e., data grouped by H–D ratio or DBH) generally did
+	    not improve the prediction precision compared to a population-level
 	    model. In this study, the effect of sample size in model fitting showed a
-	    minimal impact on prediction accuracy. The methodology presented in 
-	    this study provides a modeling strategy for mixed-species data, which 
-	    will be of practical importance when data grouping is needed for 
+	    minimal impact on prediction accuracy. The methodology presented in
+	    this study provides a modeling strategy for mixed-species data, which
+	    will be of practical importance when data grouping is needed for
 	    developing stem taper models.</td>
 	</tr>
 	<tr>
