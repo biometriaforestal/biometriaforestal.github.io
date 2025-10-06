@@ -1559,6 +1559,9 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	  <td>Summary
+
+
+
 	    Climate models predict increasing drought intensity
 	    and frequency for many regions, which may have negative consequences for
 	    tree recruitment, growth and mortality, as well as forest ecosystem
@@ -1570,14 +1573,21 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    drought‐induced stress and growth reductions, although the relationship
 	    between tree population density and tree drought vulnerability remains
 	    poorly quantified, especially across climatic gradients.
+
+
+
 	    In this study, we examined three long‐term forest
 	    ecosystem experiments in two widely distributed North American pine
 	    species, ponderosa pine
+
 	    P
 	    inus ponderosa
+
 	    (Lawson &amp; C. Lawson) and red pine
+
 	    P
 	    inus resinosa
+
 	    (Aiton), to better elucidate the relationship
 	    between tree population density, growth and drought. These experiments
 	    span a broad latitude and aridity range and include tree population
@@ -1586,11 +1596,17 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    resistance (growth during drought) and resilience (growth after drought
 	    compared to pre‐drought growth) of stand‐level growth during and after
 	    documented drought events.
+
+
+
 	    Our results show that relative tree population density
 	    was negatively related to drought resistance and resilience, indicating
 	    that trees growing at lower densities were less vulnerable to drought.
 	    This result was apparent in all three forest ecosystems, and was
 	    consistent across species, stand age and drought intensity.
+
+
+
 	    Synthesis and applications
 	    . Our results highlighted that managing pine forest
 	    ecosystems at low tree population density represents a promising
@@ -1598,6 +1614,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    growth in coming decades. Nonetheless, the broader applicability of our
 	    findings to other types of forest ecosystems merits additional
 	    investigation.
+
+
+
+
 	    ,
 	    Our results highlighted that managing pine forest ecosystems
 	    at low tree population density represents a promising adaptive strategy
@@ -2952,6 +2972,90 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <ul class="attachments">
       <li id="item_H99I9DHM">PDF					</li>
       <li id="item_BN26B4I6">ScienceDirect Snapshot					</li>
+    </ul>
+  </li>
+  <li id="item_GM8ECD6E" class="item journalArticle">
+    <h2>Mixed effect models for predicting breast height diameter from stump diameter of Oriental beech in Göldağ</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Ilker Ercanli</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Alkan Gunlu</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Emin Zeki Başkent</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>06/2015</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-90162015000300245&amp;lng=en&amp;tlng=en">http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-90162015000300245&amp;lng=en&amp;tlng=en</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>10/6/2025, 3:04:23 PM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>72</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>245-251</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Scientia Agricola</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1590/0103-9016-2014-0225">10.1590/0103-9016-2014-0225</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>3</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Sci. agric. (Piracicaba, Braz.)</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0103-9016</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>10/6/2025, 3:04:23 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>10/6/2025, 3:04:23 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_URBIVTLQ">
+	<div><div data-schema-version="9"><p>Revisado por Marcos Marivil</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_8JDQVKJD">Full Text					</li>
     </ul>
   </li>
   <li id="item_6XLGU4JB" class="item journalArticle">
