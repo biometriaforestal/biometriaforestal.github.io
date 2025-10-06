@@ -83,7 +83,7 @@ Ingeniera Forestal.
 
 <div class="equipo">
 
-![Victor Pacheco](./img/lowres/victor.webp)
+![Victor Pacheco](./img/lowres/victor2.webp)
 
 <div style="text-align: right;">
 
@@ -116,6 +116,18 @@ Memorante.
 Memorante.
 
 <i>"Modelos de razón de copa en bosques de Nothofagus Pumilio."</i>
+
+</div>
+
+![Bastián Soza](./img/lowres/bastian.webp)
+
+<div style="text-align: right;">
+
+**Bastián Soza**
+
+Memorante.
+
+<i>"Proyectando la estructura diamétrica de bosques naturales mediante funciones de densidad de probabilidad"</i>
 
 </div>
 
