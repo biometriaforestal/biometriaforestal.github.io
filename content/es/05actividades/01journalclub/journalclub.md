@@ -74,11 +74,11 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Date Added</th>
-	<td>6/2/2025, 12:23:39 PM</td>
+	  <td>6/2/2025, 12:23:39 PM</td>
 	</tr>
 	<tr>
 	  <th>Modified</th>
-	<td>6/2/2025, 12:23:39 PM</td>
+	  <td>6/2/2025, 12:23:39 PM</td>
 	</tr>
     </tbody></table>
     <h3 class="notes">Notes:</h3>
@@ -98,45 +98,45 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <table>
       <tbody><tr>
 	  <th>Item Type</th>
-	<td>Journal Article</td>
+	  <td>Journal Article</td>
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	<td>Hubert Hasenauer</td>
+	  <td>Hubert Hasenauer</td>
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	<td>Robert A. Monserud</td>
+	  <td>Robert A. Monserud</td>
 	</tr>
 	<tr>
 	  <th>Abstract</th>
-	<td>A crown ratio model for individual trees is developed for all
-	  major tree species in Austria. The study is part of a comprehensive
-	  project developing a distance-independent single tree growth simulator
-	  for the full range of stand conditions in Austria. Data were obtained
-	  from the Austrian National Forest Inventory and consist of more than 42
-	  000 trees growing on over 5000 permanent plots measured during 1981 and
-	  1985. Crown ratio was predicted using nonlinear regression with a
-	  logistic function. The argument of the logistic was a linear combination
-	  of tree size characteristics, stand density measures, and topographic
-	  site factors. The total variation explained by the model varied from 49%
-	  for larch to 17% for the ‘other broadleaf species’. The model explained
-	  41% of the variation in crown ratio for the principal species, Norway
-	  spruce. The model explained less than a quarter of the variation for all
-	  the broadleaf species and for stone pine. The effect of the size
-	  variables is approximately equal in importance to the variables
-	  representing competition for the major species. The set of topographic
-	  site factors explained the least amount of variation, less than 10% in
-	  all cases. Because the height/diameter ratio, the most important size
-	  variable, can also be considered to be an integrator of past
-	  competition, the crown ratio model is dominated by competition measures.
-	  A validation test using independent data from permanent research plots
-	  for the main species (Norway spruce, white fir, Scots pine, and beech)
-	  demonstrated that the models appear to be well behaved and robust for
-	  both pure even-aged and mixed uneven-aged stand types in Austria.
-	  Analyses of the residuals from permanent research plots representing a
-	  wide variety of thinning treatments indicate that the effect of
-	  management seems to be adequately represented by the model.</td>
+	  <td>A crown ratio model for individual trees is developed for all
+	    major tree species in Austria. The study is part of a comprehensive
+	    project developing a distance-independent single tree growth simulator
+	    for the full range of stand conditions in Austria. Data were obtained
+	    from the Austrian National Forest Inventory and consist of more than 42
+	    000 trees growing on over 5000 permanent plots measured during 1981 and
+	    1985. Crown ratio was predicted using nonlinear regression with a
+	    logistic function. The argument of the logistic was a linear combination
+	    of tree size characteristics, stand density measures, and topographic
+	    site factors. The total variation explained by the model varied from 49%
+	    for larch to 17% for the ‘other broadleaf species’. The model explained
+	    41% of the variation in crown ratio for the principal species, Norway
+	    spruce. The model explained less than a quarter of the variation for all
+	    the broadleaf species and for stone pine. The effect of the size
+	    variables is approximately equal in importance to the variables
+	    representing competition for the major species. The set of topographic
+	    site factors explained the least amount of variation, less than 10% in
+	    all cases. Because the height/diameter ratio, the most important size
+	    variable, can also be considered to be an integrator of past
+	    competition, the crown ratio model is dominated by competition measures.
+	    A validation test using independent data from permanent research plots
+	    for the main species (Norway spruce, white fir, Scots pine, and beech)
+	    demonstrated that the models appear to be well behaved and robust for
+	    both pure even-aged and mixed uneven-aged stand types in Austria.
+	    Analyses of the residuals from permanent research plots representing a
+	    wide variety of thinning treatments indicate that the effect of
+	    management seems to be adequately represented by the model.</td>
 	</tr>
 	<tr>
 	  <th>Date</th>
@@ -1819,9 +1819,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Abstract</th>
 	  <td>Summary
-
-
-
 	    Climate models predict increasing drought intensity
 	    and frequency for many regions, which may have negative consequences for
 	    tree recruitment, growth and mortality, as well as forest ecosystem
@@ -1833,21 +1830,14 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    drought‐induced stress and growth reductions, although the relationship
 	    between tree population density and tree drought vulnerability remains
 	    poorly quantified, especially across climatic gradients.
-
-
-
 	    In this study, we examined three long‐term forest
 	    ecosystem experiments in two widely distributed North American pine
 	    species, ponderosa pine
-
 	    P
 	    inus ponderosa
-
 	    (Lawson &amp; C. Lawson) and red pine
-
 	    P
 	    inus resinosa
-
 	    (Aiton), to better elucidate the relationship
 	    between tree population density, growth and drought. These experiments
 	    span a broad latitude and aridity range and include tree population
@@ -1856,17 +1846,11 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    resistance (growth during drought) and resilience (growth after drought
 	    compared to pre‐drought growth) of stand‐level growth during and after
 	    documented drought events.
-
-
-
 	    Our results show that relative tree population density
 	    was negatively related to drought resistance and resilience, indicating
 	    that trees growing at lower densities were less vulnerable to drought.
 	    This result was apparent in all three forest ecosystems, and was
 	    consistent across species, stand age and drought intensity.
-
-
-
 	    Synthesis and applications
 	    . Our results highlighted that managing pine forest
 	    ecosystems at low tree population density represents a promising
@@ -1874,10 +1858,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	    growth in coming decades. Nonetheless, the broader applicability of our
 	    findings to other types of forest ecosystems merits additional
 	    investigation.
-
-
-
-
 	    ,
 	    Our results highlighted that managing pine forest ecosystems
 	    at low tree population density represents a promising adaptive strategy
@@ -4642,6 +4622,63 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_PMXSE7B5">PDF					</li>
+    </ul>
+  </li>
+  <li id="item_2T24TEWJ" class="item bookSection">
+    <h2>Tallens och granens tillväxt</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Book Section</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>A. G. Höjer</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>1903</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>Svenska</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>P. A. Norstedt &amp; Söner</td>
+	</tr>
+	<tr>
+	  <th>Place</th>
+	  <td>Stockholm, Sweden</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>106-120</td>
+	</tr>
+	<tr>
+	  <th>Book Title</th>
+	  <td>Om våra barrskogar</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>2/4/2026, 12:14:07 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>4/13/2026, 5:10:53 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_YWWJEWCD">
+	<div><div data-schema-version="9"><p>Revisado por Nicolas Campos</p>
+	    <p>Citado por Behre (1923) y Demaerschalk (1972)</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_JQKNKT7A">PDF					</li>
     </ul>
   </li>
   <li id="item_M85MTTDG" class="item journalArticle">
