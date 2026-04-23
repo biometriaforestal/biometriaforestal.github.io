@@ -3075,6 +3075,90 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
       <li id="item_P7CS3RGE">Burkhart y Burton - 1985 - Incorporating crown ratio into taper equations for.pdf					</li>
     </ul>
   </li>
+  <li id="item_X5ML9IRK" class="item journalArticle">
+    <h2>Liocourt’s law for tree diameter distribution in forest stands</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Nicolas Picard</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>David Gasparotto</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>09/2016</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4">https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>4/13/2026, 2:43:56 PM</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>73</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>751-755</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Annals of Forest Science</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1286-4560, 1297-966X</td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>3</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Annals of Forest Science</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>4/13/2026, 2:43:56 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>4/13/2026, 2:43:56 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_JVSF9M7H">
+	<div><div data-schema-version="9"><p>Revisado por Bastian Soza</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_ZP596US2">Full Text					</li>
+    </ul>
+  </li>
   <li id="item_298G7FTK" class="item journalArticle">
     <h2>Local uncertainty maps for land-use/land-cover classification
       without remote sensing and modeling work using a class-conditional
