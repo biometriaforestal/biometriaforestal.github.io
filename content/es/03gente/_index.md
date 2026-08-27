@@ -77,11 +77,6 @@ Ingeniera Forestal.
 <i>"Comparación interespecífica de la alometría altura diámetro en especies nativas."</i>
 
 </div>
-</div>
-
-# Estudiantes
-
-<div class="equipo">
 
 ![Victor Pacheco](./img/lowres/victor2.webp)
 
@@ -89,11 +84,18 @@ Ingeniera Forestal.
 
 **Víctor Pacheco**
 
-Memorante.
+Ingeniero Forestal.
 
-<i>"Variación en la forma fustal entre dos poblaciones de _Nothofagus pumilio_ en la Región de Magallanes."</i>
+<i>"Estudio comparativo del ahusamiento de Nothofagus pumilio desarrollados en bosques puros y bosques mixtos en Tierra del Fuego, región de Magallanes y la Antártica Chilena"</i>
 
 </div>
+
+
+</div>
+
+# Estudiantes
+
+<div class="equipo">
 
 ![Marcos Marivil](./img/lowres/marcos.webp)
 
