@@ -7,7 +7,7 @@ En lo formal, el sitio web se encuetra en la sigueinte URL [[https://biometriafo
 
 * Para clonar el repositorio
 #+begin_src bash
-git clone --recurse-submodules git@github.com:biometriaforestal/weblab.git
+git clone --recurse-submodules git@github.com:biometriaforestal/biometriaforestal.github.io.git
 #+end_src
 =--recurse-submodules= es importante para que se clonen los archivos del tema /Ananke/ junto con los archivos de la página web.
 
