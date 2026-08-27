@@ -76,6 +76,8 @@ Ingeniera Forestal.
 
 <i>"Comparación interespecífica de la alometría altura diámetro en especies nativas."</i>
 
+[Enlace a memoria](https://repositorio.uchile.cl/handle/2250/209095)
+
 </div>
 
 ![Victor Pacheco](./img/lowres/victor2.webp)
