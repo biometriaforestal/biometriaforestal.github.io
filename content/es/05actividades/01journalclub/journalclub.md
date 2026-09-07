@@ -33,8 +33,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<td>08/2021</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	<td><a href="http://doi.org/10.1016/j.rse.2021.112471">10.1016/j.rse.2021.112471</a></td>
+	  <th>Language</th>
+	<td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	<td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -43,14 +47,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	<td>6/2/2025, 12:23:39 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	<td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	<td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -65,20 +61,24 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<td>Remote Sensing of Environment</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	<td>00344257</td>
+	  <th>DOI</th>
+	<td><a href="http://doi.org/10.1016/j.rse.2021.112471">10.1016/j.rse.2021.112471</a></td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
 	<td>Remote Sensing of Environment</td>
 	</tr>
 	<tr>
+	  <th>ISSN</th>
+	<td>00344257</td>
+	</tr>
+	<tr>
 	  <th>Date Added</th>
-	  <td>6/2/2025, 12:23:39 PM</td>
+	<td>6/2/2025, 12:23:39 PM</td>
 	</tr>
 	<tr>
 	  <th>Modified</th>
-	  <td>6/2/2025, 12:23:39 PM</td>
+	<td>6/2/2025, 12:23:39 PM</td>
 	</tr>
     </tbody></table>
     <h3 class="notes">Notes:</h3>
@@ -143,8 +143,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1996-08-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1016/0378-1127(96)03768-1">10.1016/0378-1127(96)03768-1</a></td>
+	  <th>Library Catalog</th>
+	  <td>ScienceDirect</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -153,10 +153,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>7/26/2025, 7:25:14 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>ScienceDirect</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -171,8 +167,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Ecology and Management</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0378-1127</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1016/0378-1127(96)03768-1">10.1016/0378-1127(96)03768-1</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -181,6 +177,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Forest Ecology and Management</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0378-1127</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -229,8 +229,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1959-11-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/jof/57.11.835">10.1093/jof/57.11.835</a></td>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -239,10 +239,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>11/26/2024, 9:14:08 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -257,8 +253,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Journal of Forestry</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0022-1201</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/jof/57.11.835">10.1093/jof/57.11.835</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -267,6 +263,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Journal of Forestry</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0022-1201</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -335,8 +335,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>06/2016</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/cjfr-2016-0018">10.1139/cjfr-2016-0018</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -345,14 +349,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>6/8/2025, 6:42:02 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -371,8 +367,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Canadian Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0045-5067, 1208-6037</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/cjfr-2016-0018">10.1139/cjfr-2016-0018</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -381,6 +377,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0045-5067, 1208-6037</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -423,8 +423,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>01/2003</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1080/02827580310005171">10.1080/02827580310005171</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -433,14 +437,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/13/2025, 8:35:40 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -455,8 +451,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Scandinavian Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0282-7581, 1651-1891</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1080/02827580310005171">10.1080/02827580310005171</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -465,6 +461,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Scandinavian Journal of Forest Research</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0282-7581, 1651-1891</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -541,8 +541,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2009-09-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1007/s10342-009-0300-8">10.1007/s10342-009-0300-8</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>Springer Link</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -551,14 +555,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>8/12/2024, 11:16:53 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>Springer Link</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -573,8 +569,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>European Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1612-4677</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s10342-009-0300-8">10.1007/s10342-009-0300-8</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -583,6 +579,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Eur J Forest Res</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1612-4677</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -640,8 +640,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>07/2005</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1051/forest:2005042">10.1051/forest:2005042</a></td>
+	  <th>Library Catalog</th>
+	  <td>Crossref</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -652,16 +652,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>7/7/2025, 11:31:07 AM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>Crossref</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: EDP Sciences</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>62</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>EDP Sciences</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -672,8 +668,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Annals of Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1286-4560, 1297-966X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1051/forest:2005042">10.1051/forest:2005042</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -682,6 +678,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Ann. For. Sci.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1286-4560, 1297-966X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -720,8 +720,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>07/2002</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.4067/S0717-92002002000200009">10.4067/S0717-92002002000200009</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -732,14 +736,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>7/22/2024, 9:18:43 AM</td>
 	</tr>
 	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>23</td>
 	</tr>
@@ -748,8 +744,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Bosque (Valdivia)</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0717-9200</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4067/S0717-92002002000200009">10.4067/S0717-92002002000200009</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -758,6 +754,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Bosque (Valdivia)</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0717-9200</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -824,8 +824,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1998-09</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1038/25977">10.1038/25977</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>www.nature.com</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -836,24 +840,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>4/30/2025, 12:19:51 PM</td>
 	</tr>
 	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>www.nature.com</td>
-	</tr>
-	<tr>
 	  <th>License</th>
 	  <td>1998 Macmillan Magazines Ltd.</td>
 	</tr>
 	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: Nature Publishing Group</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>395</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>Nature Publishing Group</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -864,12 +860,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Nature</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1476-4687</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1038/25977">10.1038/25977</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>6698</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1476-4687</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -935,8 +935,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1992-02-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestscience/38.1.192">10.1093/forestscience/38.1.192</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -945,14 +949,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>9/2/2024, 4:22:53 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -967,12 +963,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-749X, 1938-3738</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestscience/38.1.192">10.1093/forestscience/38.1.192</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X, 1938-3738</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1047,8 +1047,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2018-09-04</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.29298/rmcf.v9i49.151">10.29298/rmcf.v9i49.151</a></td>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1057,10 +1057,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>3/18/2026, 10:16:40 AM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -1075,8 +1071,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Revista Mexicana de Ciencias Forestales</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>2448-6671</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.29298/rmcf.v9i49.151">10.29298/rmcf.v9i49.151</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1085,6 +1081,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>RMCF</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>2448-6671</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1133,8 +1133,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>11/2014</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1007/s10342-014-0827-1">10.1007/s10342-014-0827-1</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1143,14 +1147,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>5/24/2025, 8:04:32 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -1165,8 +1161,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>European Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1612-4669, 1612-4677</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s10342-014-0827-1">10.1007/s10342-014-0827-1</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1175,6 +1171,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Eur J Forest Res</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1612-4669, 1612-4677</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1243,8 +1243,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2022-01-20</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.3390/f13020156">10.3390/f13020156</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1253,14 +1257,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>8/8/2024, 11:00:09 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -1279,8 +1275,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forests</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1999-4907</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.3390/f13020156">10.3390/f13020156</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1289,6 +1285,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Forests</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1999-4907</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1332,8 +1332,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>01/2010</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1051/forest/2009109">10.1051/forest/2009109</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1342,14 +1346,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>6/17/2024, 2:37:46 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -1368,8 +1364,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Annals of Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1286-4560, 1297-966X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1051/forest/2009109">10.1051/forest/2009109</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1378,6 +1374,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Ann. For. Sci.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1286-4560, 1297-966X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1439,10 +1439,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1992-09-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/x92-172">10.1139/x92-172</a></td>
-	</tr>
-	<tr>
 	  <th>Library Catalog</th>
 	  <td>ResearchGate</td>
 	</tr>
@@ -1457,6 +1453,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Publication</th>
 	  <td>Canadian Journal of Forest Research-revue Canadienne De Recherche Forestiere - CAN J FOREST RES</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/x92-172">10.1139/x92-172</a></td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
@@ -1508,8 +1508,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>11/1996</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1080/00382167.1996.9629715">10.1080/00382167.1996.9629715</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1518,14 +1522,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>7/30/2025, 10:18:22 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -1540,8 +1536,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>South African Forestry Journal</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0038-2167</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1080/00382167.1996.9629715">10.1080/00382167.1996.9629715</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1550,6 +1546,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>South African Forestry Journal</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0038-2167</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1592,16 +1592,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1987</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/x87-096">10.1139/x87-096</a></td>
+	  <th>Language</th>
+	  <td>en</td>
 	</tr>
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/27/2025, 9:17:47 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -1614,6 +1610,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Publication</th>
 	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/x87-096">10.1139/x87-096</a></td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1664,8 +1664,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1972-09-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestscience/18.3.241">10.1093/forestscience/18.3.241</a></td>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1674,10 +1674,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>8/11/2025, 10:13:44 AM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -1692,8 +1688,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-749X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestscience/18.3.241">10.1093/forestscience/18.3.241</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1702,6 +1698,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>for sci</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -1870,8 +1870,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>12/2017</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1111/1365-2664.12847">10.1111/1365-2664.12847</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -1880,14 +1884,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>6/30/2025, 10:33:29 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -1906,8 +1902,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Journal of Applied Ecology</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0021-8901, 1365-2664</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1111/1365-2664.12847">10.1111/1365-2664.12847</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -1916,6 +1912,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Journal of Applied Ecology</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0021-8901, 1365-2664</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2009,8 +2009,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2022-03-21</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.33494/nzjfs522022x180x">10.33494/nzjfs522022x180x</a></td>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2019,10 +2019,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>11/27/2024, 12:35:32 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -2037,12 +2033,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>New Zealand Journal of Forestry Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1179-5395</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.33494/nzjfs522022x180x">10.33494/nzjfs522022x180x</a></td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>NZJFS</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1179-5395</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2093,8 +2093,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>09/2021</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1016/j.tfp.2021.100103">10.1016/j.tfp.2021.100103</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2103,14 +2107,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>6/24/2024, 5:31:32 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -2125,12 +2121,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Trees, Forests and People</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>26667193</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1016/j.tfp.2021.100103">10.1016/j.tfp.2021.100103</a></td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Trees, Forests and People</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>26667193</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2207,8 +2207,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2020-11-19</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.3390/f11111216">10.3390/f11111216</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2217,14 +2221,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>8/29/2025, 4:01:37 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -2243,8 +2239,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forests</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1999-4907</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.3390/f11111216">10.3390/f11111216</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -2253,6 +2249,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Forests</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1999-4907</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2434,8 +2434,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>00/2006</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.4067/S0717-92002006000100003">10.4067/S0717-92002006000100003</a></td>
+	  <th>Library Catalog</th>
+	  <td>SciELO</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2446,16 +2446,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>6/13/2024, 1:10:35 PM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>SciELO</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: Universidad Austral de Chile</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>27</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>Universidad Austral de Chile</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -2466,12 +2462,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Bosque</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0717-9200</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4067/S0717-92002006000100003">10.4067/S0717-92002006000100003</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0717-9200</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2536,8 +2536,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1994-02</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/x94-037">10.1139/x94-037</a></td>
+	  <th>Library Catalog</th>
+	  <td>cdnsciencepub.com (Atypon)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2548,16 +2548,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>4/21/2024, 3:08:54 PM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>cdnsciencepub.com (Atypon)</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: NRC Research Press</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>24</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>NRC Research Press</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -2568,8 +2564,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Canadian Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0045-5067</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/x94-037">10.1139/x94-037</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -2578,6 +2574,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0045-5067</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2624,10 +2624,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1997</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.4206/bosque.1997.v18n1-05">10.4206/bosque.1997.v18n1-05</a></td>
-	</tr>
-	<tr>
 	  <th>Language</th>
 	  <td>Español</td>
 	</tr>
@@ -2642,6 +2638,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Publication</th>
 	  <td>Bosque</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4206/bosque.1997.v18n1-05">10.4206/bosque.1997.v18n1-05</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -2699,8 +2699,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1992-10-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.5558/tfc68623-5">10.5558/tfc68623-5</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2709,14 +2713,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/30/2024, 10:05:21 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -2731,8 +2727,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>The Forestry Chronicle</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-7546, 1499-9315</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc68623-5">10.5558/tfc68623-5</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -2741,6 +2737,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546, 1499-9315</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2783,8 +2783,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2014-12-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestry/cpu029">10.1093/forestry/cpu029</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2793,14 +2797,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>6/30/2024, 8:15:54 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -2815,12 +2811,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forestry: An International Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-752X, 1464-3626</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestry/cpu029">10.1093/forestry/cpu029</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>5</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-752X, 1464-3626</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -2955,8 +2955,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2000-04-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.5558/tfc76303-2">10.5558/tfc76303-2</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -2965,14 +2969,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>9/13/2024, 12:25:05 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -2987,8 +2983,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>The Forestry Chronicle</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-7546, 1499-9315</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc76303-2">10.5558/tfc76303-2</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -2997,6 +2993,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546, 1499-9315</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3095,8 +3095,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>09/2016</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3105,14 +3109,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>4/13/2026, 2:43:56 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -3127,8 +3123,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Annals of Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1286-4560, 1297-966X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -3137,6 +3133,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Annals of Forest Science</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1286-4560, 1297-966X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3233,8 +3233,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2024-12-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1016/j.jag.2024.104288">10.1016/j.jag.2024.104288</a></td>
+	  <th>Library Catalog</th>
+	  <td>ScienceDirect</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3243,10 +3243,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>4/30/2025, 12:24:15 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>ScienceDirect</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -3261,12 +3257,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>International Journal of Applied Earth Observation and Geoinformation</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1569-8432</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1016/j.jag.2024.104288">10.1016/j.jag.2024.104288</a></td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>International Journal of Applied Earth Observation and Geoinformation</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1569-8432</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3322,8 +3322,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>06/2015</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1590/0103-9016-2014-0225">10.1590/0103-9016-2014-0225</a></td>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3332,10 +3332,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/6/2025, 3:04:23 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -3350,8 +3346,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Scientia Agricola</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0103-9016</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1590/0103-9016-2014-0225">10.1590/0103-9016-2014-0225</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -3360,6 +3356,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Sci. agric. (Piracicaba, Braz.)</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0103-9016</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3447,8 +3447,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>12/2020</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/cjfr-2020-0060">10.1139/cjfr-2020-0060</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Short Title</th>
+	  <td>Modeling of tree height–diameter relationships in the Atlantic Forest</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3457,18 +3465,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>7/29/2024, 12:10:43 PM</td>
-	</tr>
-	<tr>
-	  <th>Short Title</th>
-	  <td>Modeling of tree height–diameter relationships in the Atlantic Forest</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -3487,8 +3483,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Canadian Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0045-5067, 1208-6037</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/cjfr-2020-0060">10.1139/cjfr-2020-0060</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -3497,6 +3493,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0045-5067, 1208-6037</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3517,6 +3517,98 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_IPNS83NL">Cysneiros et al. - 2020 - Modeling of tree height–diameter relationships in .pdf					</li>
+    </ul>
+  </li>
+  <li id="item_M5XH6NZ7" class="item journalArticle">
+    <h2>Modeling the diameter distributions of brutian pine stands using Johnson's S&lt;sub&gt;B&lt;/sub&gt; distribution</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Ramazan Özçelik</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Teresa J. Fidalgo Fonseca</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Bernard R. Parresol</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Ünal Eler</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2016-12-08</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://academic.oup.com/forestscience/article/62/6/587-593/4583950">https://academic.oup.com/forestscience/article/62/6/587-593/4583950</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>8/30/2026, 12:02:26 AM</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>62</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>587-593</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Forest Science</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5849/forsci.15-089">10.5849/forsci.15-089</a></td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	  <td>6</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Forest Science</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>8/30/2026, 12:02:26 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>8/30/2026, 12:03:25 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_HJW2SAGJ">
+	<div><div data-schema-version="9"><p>Revisado por Bastián Soza</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_N74JWZ3D">PDF					</li>
     </ul>
   </li>
   <li id="item_344SRAHR" class="item journalArticle">
@@ -3555,8 +3647,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1986-10</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.5558/tfc62451-5">10.5558/tfc62451-5</a></td>
+	  <th>Library Catalog</th>
+	  <td>pubs.cif-ifc.org (Atypon)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3567,16 +3659,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>11/4/2024, 11:50:05 AM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>pubs.cif-ifc.org (Atypon)</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: Canadian Institute of Forestry</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>62</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>Canadian Institute of Forestry</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -3587,12 +3675,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>The Forestry Chronicle</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-7546</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc62451-5">10.5558/tfc62451-5</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>5</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3793,8 +3885,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>00/2009</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.4067/S0717-92002009000200001">10.4067/S0717-92002009000200001</a></td>
+	  <th>Library Catalog</th>
+	  <td>SciELO</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3805,16 +3897,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>4/18/2024, 7:40:42 AM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>SciELO</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: Universidad Austral de Chile</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>30</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>Universidad Austral de Chile</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -3825,12 +3913,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Bosque (Valdivia)</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0717-9200</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4067/S0717-92002009000200001">10.4067/S0717-92002009000200001</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>2</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0717-9200</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3894,8 +3986,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2010-03-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/njaf/27.1.21">10.1093/njaf/27.1.21</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3904,14 +4000,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>8/19/2024, 1:22:34 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -3926,12 +4014,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Northern Journal of Applied Forestry</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0742-6348, 1938-3762</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/njaf/27.1.21">10.1093/njaf/27.1.21</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>1</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0742-6348, 1938-3762</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -3982,8 +4074,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1999-09-15</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1139/x99-103">10.1139/x99-103</a></td>
+	  <th>Library Catalog</th>
+	  <td>cdnsciencepub.com (Atypon)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -3994,16 +4086,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>6/17/2024, 2:33:33 PM</td>
 	</tr>
 	<tr>
-	  <th>Library Catalog</th>
-	  <td>cdnsciencepub.com (Atypon)</td>
-	</tr>
-	<tr>
-	  <th>Extra</th>
-	  <td>Publisher: NRC Research Press</td>
-	</tr>
-	<tr>
 	  <th>Volume</th>
 	  <td>29</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>NRC Research Press</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -4014,8 +4102,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Canadian Journal of Forest Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0045-5067</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1139/x99-103">10.1139/x99-103</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4024,6 +4112,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Can. J. For. Res.</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0045-5067</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4138,8 +4230,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1973-06-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestscience/19.2.97">10.1093/forestscience/19.2.97</a></td>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4148,10 +4240,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>9/29/2025, 12:17:03 AM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -4166,8 +4254,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-749X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestscience/19.2.97">10.1093/forestscience/19.2.97</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4176,6 +4264,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>for sci</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4231,8 +4323,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2012-03-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.5849/njaf.10-037">10.5849/njaf.10-037</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Short Title</th>
+	  <td>Regional Stem Taper Equations for Eleven Conifer Species in the Acadian Region of North America</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4241,18 +4341,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>5/10/2025, 10:22:59 AM</td>
-	</tr>
-	<tr>
-	  <th>Short Title</th>
-	  <td>Regional Stem Taper Equations for Eleven Conifer Species in the Acadian Region of North America</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -4267,8 +4355,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Northern Journal of Applied Forestry</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>07426348</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5849/njaf.10-037">10.5849/njaf.10-037</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4277,6 +4365,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Northern Journal of Applied Forestry</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>07426348</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4432,8 +4524,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2020-09-11</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1038/s41467-020-18321-y">10.1038/s41467-020-18321-y</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4442,14 +4538,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>4/2/2025, 11:38:48 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -4464,8 +4552,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Nature Communications</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>2041-1723</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1038/s41467-020-18321-y">10.1038/s41467-020-18321-y</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4474,6 +4562,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Nat Commun</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>2041-1723</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4560,8 +4652,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2023-12-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forsci/fxad035">10.1093/forsci/fxad035</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4570,14 +4666,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>9/3/2025, 5:01:47 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -4596,12 +4684,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-749X, 1938-3738</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forsci/fxad035">10.1093/forsci/fxad035</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
 	  <td>6</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X, 1938-3738</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4640,8 +4732,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>3/2013</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1007/s11676-012-0270-4">10.1007/s11676-012-0270-4</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4650,14 +4746,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/1/2024, 5:08:20 PM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -4676,8 +4764,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Journal of Forestry Research</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>1007-662X, 1993-0607</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1007/s11676-012-0270-4">10.1007/s11676-012-0270-4</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4686,6 +4774,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Journal of Forestry Research</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>1007-662X, 1993-0607</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4728,12 +4820,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Svenska</td>
 	</tr>
 	<tr>
-	  <th>Publisher</th>
-	  <td>P. A. Norstedt &amp; Söner</td>
-	</tr>
-	<tr>
 	  <th>Place</th>
 	  <td>Stockholm, Sweden</td>
+	</tr>
+	<tr>
+	  <th>Publisher</th>
+	  <td>P. A. Norstedt &amp; Söner</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
@@ -4763,6 +4855,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_JQKNKT7A">PDF					</li>
+      <li id="item_83R5BVSS">transcript					</li>
+      <li id="item_RKFMB6K7">translation					</li>
     </ul>
   </li>
   <li id="item_M85MTTDG" class="item journalArticle">
@@ -4802,8 +4896,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1965-12-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestscience/11.4.405">10.1093/forestscience/11.4.405</a></td>
+	  <th>Library Catalog</th>
+	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4812,10 +4906,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>10/21/2025, 5:26:29 PM</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>Silverchair</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -4830,8 +4920,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forest Science</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-749X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestscience/11.4.405">10.1093/forestscience/11.4.405</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4840,6 +4930,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>for sci</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-749X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4896,8 +4990,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>1966-12-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.5558/tfc42444-4">10.5558/tfc42444-4</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Short Title</th>
+	  <td>TREE FORM</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4906,18 +5008,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>11/10/2025, 10:52:09 AM</td>
-	</tr>
-	<tr>
-	  <th>Short Title</th>
-	  <td>TREE FORM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -4932,8 +5022,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>The Forestry Chronicle</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-7546, 1499-9315</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.5558/tfc42444-4">10.5558/tfc42444-4</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -4942,6 +5032,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>The Forestry Chronicle</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-7546, 1499-9315</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -4985,8 +5079,12 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>2007-01-01</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1093/forestry/cpl048">10.1093/forestry/cpl048</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -4995,14 +5093,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>3/26/2026, 10:59:37 AM</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
@@ -5017,8 +5107,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Forestry</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>0015-752X, 1464-3626</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1093/forestry/cpl048">10.1093/forestry/cpl048</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -5027,6 +5117,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Forestry</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0015-752X, 1464-3626</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
@@ -5115,8 +5209,16 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>04/2018</td>
 	</tr>
 	<tr>
-	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1111/2041-210X.12933">10.1111/2041-210X.12933</a></td>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Short Title</th>
+	  <td>Using terrestrial laser scanning data to estimate large tropical trees biomass and calibrate allometric models</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>URL</th>
@@ -5125,18 +5227,6 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Accessed</th>
 	  <td>5/5/2025, 10:21:32 AM</td>
-	</tr>
-	<tr>
-	  <th>Short Title</th>
-	  <td>Using terrestrial laser scanning data to estimate large tropical trees biomass and calibrate allometric models</td>
-	</tr>
-	<tr>
-	  <th>Language</th>
-	  <td>en</td>
-	</tr>
-	<tr>
-	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>License</th>
@@ -5155,8 +5245,8 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	  <td>Methods in Ecology and Evolution</td>
 	</tr>
 	<tr>
-	  <th>ISSN</th>
-	  <td>2041-210X, 2041-210X</td>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1111/2041-210X.12933">10.1111/2041-210X.12933</a></td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
@@ -5165,6 +5255,10 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	<tr>
 	  <th>Journal Abbr</th>
 	  <td>Methods Ecol Evol</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>2041-210X, 2041-210X</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>

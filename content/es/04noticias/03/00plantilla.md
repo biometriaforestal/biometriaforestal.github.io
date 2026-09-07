@@ -1,6 +1,6 @@
 ---
 title: "plantilla para noticias"
-date: YYYY-MM-DD
+date: 2026-09-06
 featured_image: "https://forestal.uchile.cl/dam/jcr:148af95e-9765-473d-a363-818b96051956/foto%20contenido%20CSE.jpg"
 draft: true
 ---
