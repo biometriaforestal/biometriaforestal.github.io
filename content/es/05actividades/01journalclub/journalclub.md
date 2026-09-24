@@ -63,6 +63,7 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     </ul>
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
+      <li id="item_NDBWYK5I">20260408_nc_journal					</li>
       <li id="item_JQKNKT7A">PDF					</li>
       <li id="item_83R5BVSS">transcript					</li>
       <li id="item_RKFMB6K7">translation					</li>
@@ -77,47 +78,47 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	  <td>Nicolas Picard</td>
+	<td>Nicolas Picard</td>
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	  <td>David Gasparotto</td>
+	<td>David Gasparotto</td>
 	</tr>
 	<tr>
 	  <th>Date</th>
-	  <td>09/2016</td>
+	<td>09/2016</td>
 	</tr>
 	<tr>
 	  <th>DOI</th>
-	  <td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
+	<td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
 	</tr>
 	<tr>
 	  <th>URL</th>
-	  <td><a href="https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4">https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4</a></td>
+	<td><a href="https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4">https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4</a></td>
 	</tr>
 	<tr>
 	  <th>Accessed</th>
-	  <td>4/13/2026, 2:43:56 PM</td>
+	<td>4/13/2026, 2:43:56 PM</td>
 	</tr>
 	<tr>
 	  <th>Language</th>
-	  <td>en</td>
+	<td>en</td>
 	</tr>
 	<tr>
 	  <th>Library Catalog</th>
-	  <td>DOI.org (Crossref)</td>
+	<td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
-	  <td>73</td>
+	<td>73</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
-	  <td>751-755</td>
+	<td>751-755</td>
 	</tr>
 	<tr>
 	  <th>Publication</th>
-	  <td>Annals of Forest Science</td>
+	<td>Annals of Forest Science</td>
 	</tr>
 	<tr>
 	  <th>ISSN</th>
@@ -5374,39 +5375,39 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th>Library Catalog</th>
-	<td>DOI.org (Crossref)</td>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
-	<td>62</td>
+	  <td>62</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
-	<td>587-593</td>
+	  <td>587-593</td>
 	</tr>
 	<tr>
 	  <th>Publication</th>
-	<td>Forest Science</td>
+	  <td>Forest Science</td>
 	</tr>
 	<tr>
 	  <th>ISSN</th>
-	<td>0015-749X</td>
+	  <td>0015-749X</td>
 	</tr>
 	<tr>
 	  <th>Issue</th>
-	<td>6</td>
+	  <td>6</td>
 	</tr>
 	<tr>
 	  <th>Journal Abbr</th>
-	<td>Forest Science</td>
+	  <td>Forest Science</td>
 	</tr>
 	<tr>
 	  <th>Date Added</th>
-	<td>8/30/2026, 12:02:26 AM</td>
+	  <td>8/30/2026, 12:02:26 AM</td>
 	</tr>
 	<tr>
 	  <th>Modified</th>
-	<td>8/30/2026, 12:03:25 AM</td>
+	  <td>8/30/2026, 12:03:25 AM</td>
 	</tr>
     </tbody></table>
     <h3 class="notes">Notes:</h3>
@@ -5419,6 +5420,107 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <h3 class="attachments">Attachments</h3>
     <ul class="attachments">
       <li id="item_N74JWZ3D">PDF					</li>
+    </ul>
+  </li>
+  <li id="item_6B3UEWVN" class="item journalArticle">
+    <h2>Modelos alométricos altura-diámetro para Bucida buceras (pukté) en Quintana Roo, México</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Jonathan Hernández-Ramos</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Juan Carlos Tamarit-Urias</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Xavier García-Cuevas</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Adrián Hernández-Ramos</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Roberto Reynoso-Santos</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Valentín Reyes-Hernández</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2019</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.4067/S0717-92002019000300267">10.4067/S0717-92002019000300267</a></td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="http://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0717-92002019000300267&amp;lng=en&amp;nrm=iso&amp;tlng=en">http://www.scielo.cl/scielo.php?script=sci_arttext&amp;pid=S0717-92002019000300267&amp;lng=en&amp;nrm=iso&amp;tlng=en</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>9/23/2026, 10:46:57 AM</td>
+	</tr>
+	<tr>
+	  <th>Language</th>
+	  <td>en</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>DOI.org (Crossref)</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	<td>40</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	<td>267-276</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	<td>Bosque (Valdivia)</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	<td>0717-9200</td>
+	</tr>
+	<tr>
+	  <th>Issue</th>
+	<td>3</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	<td>Bosque (Valdivia)</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	<td>9/23/2026, 10:46:57 AM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	<td>9/23/2026, 10:46:57 AM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_MRCLIMJ4">
+	<div><div data-schema-version="9"><p>Revisado por Marcos Marivil</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_QPL88R9M">Full Text					</li>
+      <li id="item_JZP3SY2P">reviewhdezramos					</li>
     </ul>
   </li>
 </ul>
