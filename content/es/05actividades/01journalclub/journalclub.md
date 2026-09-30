@@ -78,47 +78,47 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	<td>Nicolas Picard</td>
+	  <td>Nicolas Picard</td>
 	</tr>
 	<tr>
 	  <th class="author">Author</th>
-	<td>David Gasparotto</td>
+	  <td>David Gasparotto</td>
 	</tr>
 	<tr>
 	  <th>Date</th>
-	<td>09/2016</td>
+	  <td>09/2016</td>
 	</tr>
 	<tr>
 	  <th>DOI</th>
-	<td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
+	  <td><a href="http://doi.org/10.1007/s13595-016-0563-4">10.1007/s13595-016-0563-4</a></td>
 	</tr>
 	<tr>
 	  <th>URL</th>
-	<td><a href="https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4">https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4</a></td>
+	  <td><a href="https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4">https://annforsci.biomedcentral.com/articles/10.1007/s13595-016-0563-4</a></td>
 	</tr>
 	<tr>
 	  <th>Accessed</th>
-	<td>4/13/2026, 2:43:56 PM</td>
+	  <td>4/13/2026, 2:43:56 PM</td>
 	</tr>
 	<tr>
 	  <th>Language</th>
-	<td>en</td>
+	  <td>en</td>
 	</tr>
 	<tr>
 	  <th>Library Catalog</th>
-	<td>DOI.org (Crossref)</td>
+	  <td>DOI.org (Crossref)</td>
 	</tr>
 	<tr>
 	  <th>Volume</th>
-	<td>73</td>
+	  <td>73</td>
 	</tr>
 	<tr>
 	  <th>Pages</th>
-	<td>751-755</td>
+	  <td>751-755</td>
 	</tr>
 	<tr>
 	  <th>Publication</th>
-	<td>Annals of Forest Science</td>
+	  <td>Annals of Forest Science</td>
 	</tr>
 	<tr>
 	  <th>ISSN</th>
@@ -5328,6 +5328,140 @@ En esta sección se listan los árticulos revisados en el "Journal Club" semanal
     <ul class="attachments">
       <li id="item_BZSNDWDL">20260908_nc_journal					</li>
       <li id="item_B348XFWR">PDF					</li>
+    </ul>
+  </li>
+  <li id="item_52M4JJIT" class="item journalArticle">
+    <h2>Using point dendrometers to improve forest transpiration estimation accuracy at stand scales</h2>
+    <table>
+      <tbody><tr>
+	  <th>Item Type</th>
+	  <td>Journal Article</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Ryan M. Bright</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Danielle Creek</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Holger Lange</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Helge Meissner</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Morgane Merlin</td>
+	</tr>
+	<tr>
+	  <th class="author">Author</th>
+	  <td>Junbin Zhao</td>
+	</tr>
+	<tr>
+	  <th>Abstract</th>
+	  <td>Forest transpiration is often quantified by scaling up stem
+	    sap flow measured on a few trees within a stand. This procedure carries
+	    uncertainty related to the (ill)representativeness of the sampled trees
+	    for the entire stand, often comprising several thousand transpiring
+	    trees. Here, we explored the uncertainty reduction potential afforded by
+	    increasing the number of sampled trees within the stand – not by costly
+	    sap flow monitoring equipment – but by point dendrometers measuring
+	    sub-daily fluctuations in stem radii which partially correlate with
+	    xylem water movement (i.e., sap flow). Using measurements collected in a
+	    forest dominated by even-aged spruce trees over two growing seasons, we
+	    built an empirical model for estimating hourly sap flow from individual
+	    trees equipped with point dendrometers, then applied it to estimate the
+	    daily transpiration of the stand both with and without trees equipped
+	    with point dendrometers. We found that the expanded tree sample size
+	    reduced the uncertainty of the stand-level estimate by 31–37 %,
+	    suggesting that the benefit afforded by increasing the stand
+	    representativeness outweighed the cost of introducing modeling error.
+	    Given their relative simplicity and affordability, we encourage
+	    additional investigations into the use of point dendrometers for
+	    studying tree water relations and water consumption patterns of entire
+	    forested stands.</td>
+	</tr>
+	<tr>
+	  <th>Date</th>
+	  <td>2026-03-01</td>
+	</tr>
+	<tr>
+	  <th>DOI</th>
+	  <td><a href="http://doi.org/10.1016/j.agrformet.2025.110986">10.1016/j.agrformet.2025.110986</a></td>
+	</tr>
+	<tr>
+	  <th>Citation Key</th>
+	  <td>bright26</td>
+	</tr>
+	<tr>
+	  <th>URL</th>
+	  <td><a href="https://www.sciencedirect.com/science/article/pii/S0168192325006057">https://www.sciencedirect.com/science/article/pii/S0168192325006057</a></td>
+	</tr>
+	<tr>
+	  <th>Accessed</th>
+	  <td>8/12/2026, 11:19:02 PM</td>
+	</tr>
+	<tr>
+	  <th>Library Catalog</th>
+	  <td>ScienceDirect</td>
+	</tr>
+	<tr>
+	  <th>Volume</th>
+	  <td>378</td>
+	</tr>
+	<tr>
+	  <th>Pages</th>
+	  <td>110986</td>
+	</tr>
+	<tr>
+	  <th>Publication</th>
+	  <td>Agricultural and Forest Meteorology</td>
+	</tr>
+	<tr>
+	  <th>ISSN</th>
+	  <td>0168-1923</td>
+	</tr>
+	<tr>
+	  <th>Journal Abbr</th>
+	  <td>Agricultural and Forest Meteorology</td>
+	</tr>
+	<tr>
+	  <th>Date Added</th>
+	  <td>8/12/2026, 11:19:02 PM</td>
+	</tr>
+	<tr>
+	  <th>Modified</th>
+	  <td>8/12/2026, 11:21:59 PM</td>
+	</tr>
+    </tbody></table>
+    <h3 class="tags">Tags:</h3>
+    <ul class="tags">
+      <li>Boreal forest</li>
+      <li>Dendrometry</li>
+      <li>Eddy-covariance</li>
+      <li>Latent heat flux</li>
+      <li>Sap flux density</li>
+      <li>Sap velocity</li>
+      <li>Tree water consumption</li>
+      <li>Upscaling</li>
+    </ul>
+    <h3 class="notes">Notes:</h3>
+    <ul class="notes">
+      <li id="item_IZP2HZFV">
+	<div><div data-schema-version="9"><p>Revisado por Nicolás Campos</p>
+	</div></div>
+      </li>
+    </ul>
+    <h3 class="attachments">Attachments</h3>
+    <ul class="attachments">
+      <li id="item_J7MLSE8E">1-s2.0-S0168192325006057-mmc1					</li>
+      <li id="item_XHH28DH8">20260928_nc_journal					</li>
+      <li id="item_KFYFFL7V">ScienceDirect Full Text PDF					</li>
+      <li id="item_WJNDFST6">ScienceDirect Snapshot					</li>
     </ul>
   </li>
   <li id="item_M5XH6NZ7" class="item journalArticle">
