@@ -21,7 +21,7 @@ Profesor titular. Departamento de Gestión Forestal y su Medio Ambiente.
 
 Director del Laboratorio de Biometría y Modelación Forestal.
 
-[eljatib.com](https://eljatib.com)
+[eljatib.org](https://eljatib.org)
 
 <!-- Director del Laboratorio de Biometría y Modelación Forestal. -->
 
